@@ -4,200 +4,271 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rimba Kabar — Arsip Berita Flora &amp; Fauna Indonesia</title>
-<meta name="description" content="Kompilasi berita terkini tentang kekayaan dan ancaman terhadap flora dan fauna Indonesia.">
+<meta name="description" content="Arsip berita tentang kekayaan dan ancaman terhadap flora dan fauna Indonesia.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Karla:wght@400;500;700&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#faf5ec;
-  --bg-soft:#f3ecdd;
-  --card:#fffdf8;
-  --ink:#33402f;
-  --ink-muted:#6f7a68;
-  --border:#e5dcc8;
-  --sage:#7d9b76;
-  --sage-soft:#e3ecdd;
-  --terra:#c2704e;
-  --terra-soft:#f5e2d7;
-  --gold:#b8923f;
-  --gold-soft:#f3e8cd;
-  --radius:14px;
-  --font-head:"Fraunces",Georgia,serif;
-  --font-body:"Karla",system-ui,sans-serif;
+  --paper:#f7f2e7; --page:#fbf8f0; --ink:#2b3527; --muted:#71785f; --pencil:#5b5342;
+  --line:#d8cfb4; --leaf:#3f5d3a; --leaf-lt:#8aa578; --clay:#a0512f; --seed:#8a6d2c;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--ink);font-family:var(--font-body);line-height:1.55;font-size:16px}
+body{background:var(--paper);color:var(--ink);font-family:Karla,sans-serif;line-height:1.55;font-size:16px}
 a{color:inherit}
+.hand{font-family:Caveat,cursive}
 
-/* ---------- header ---------- */
-header{max-width:880px;margin:0 auto;padding:64px 24px 36px}
-.eyebrow{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--sage);font-weight:700;margin-bottom:14px}
-h1{font-family:var(--font-head);font-weight:700;font-size:clamp(34px,6vw,54px);line-height:1.08;letter-spacing:-.01em}
-h1 em{font-style:italic;color:var(--terra)}
-.lede{margin-top:18px;max-width:56ch;color:var(--ink-muted);font-size:17.5px;text-wrap:pretty}
-.meta-line{margin-top:22px;font-size:13.5px;color:var(--ink-muted);display:flex;gap:18px;flex-wrap:wrap}
-.meta-line b{color:var(--ink)}
+/* ---------- canopy frieze ---------- */
+.frieze{display:block;width:100%;height:74px;color:var(--leaf)}
 
-/* ---------- controls ---------- */
-.controls{position:sticky;top:0;z-index:10;background:linear-gradient(var(--bg) 82%,rgba(250,245,236,0));padding:14px 24px 18px}
-.controls-inner{max-width:880px;margin:0 auto;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-.chip{border:1.5px solid var(--border);background:var(--card);border-radius:999px;padding:8px 16px;font-family:var(--font-body);font-size:14px;font-weight:500;color:var(--ink-muted);cursor:pointer;transition:all .15s ease}
-.chip:hover{border-color:var(--sage)}
-.chip:focus-visible{outline:2px solid var(--sage);outline-offset:2px}
-.chip.active{font-weight:700;color:var(--ink)}
-.chip.active[data-cat="all"]{background:var(--ink);color:var(--card);border-color:var(--ink)}
-.chip.active[data-cat="kekayaan"]{background:var(--sage-soft);border-color:var(--sage);color:#4a6343}
-.chip.active[data-cat="ancaman"]{background:var(--terra-soft);border-color:var(--terra);color:#96522f}
-.chip.active[data-cat="konservasi"]{background:var(--gold-soft);border-color:var(--gold);color:#8a6c26}
-.search{flex:1;min-width:200px;display:flex}
-.search input{width:100%;border:1.5px solid var(--border);background:var(--card);border-radius:999px;padding:9px 18px;font-family:var(--font-body);font-size:14.5px;color:var(--ink)}
-.search input:focus{outline:2px solid var(--sage);outline-offset:1px;border-color:var(--sage)}
+/* ---------- masthead ---------- */
+header{max-width:1000px;margin:0 auto;padding:26px 28px 8px;text-align:center}
+.masthead{font-family:Fraunces,serif;font-weight:700;font-size:clamp(40px,7vw,64px);letter-spacing:-.015em;line-height:1}
+.masthead .amp{font-style:italic;font-weight:400;color:var(--clay)}
+.tagline{margin-top:10px;font-size:13px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted)}
+.stats{margin-top:10px;font-size:14px;color:var(--pencil)}
+.stats .hand{font-size:19px}
+
+/* ---------- specimen divider ---------- */
+.specimens{max-width:1000px;margin:18px auto 0;padding:0 28px;display:flex;justify-content:center;align-items:flex-end;gap:clamp(20px,6vw,64px);color:var(--leaf)}
+.specimens figure{text-align:center}
+.specimens figcaption{font-family:Caveat,cursive;font-size:16px;color:var(--pencil)}
+.specimens svg{display:block;margin:0 auto}
+.rule{max-width:1000px;margin:16px auto 0;padding:0 28px}
+.rule svg{width:100%;height:18px;display:block;color:var(--seed)}
+
+/* ---------- nav + search ---------- */
+.navwrap{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:1px solid var(--line);box-shadow:0 1px 0 rgba(43,53,39,.03)}
+nav{max-width:1000px;margin:0 auto;padding:0 28px;display:flex;align-items:center;gap:4px;border-top:1px solid var(--line)}
+nav button{background:none;border:0;font-family:Karla,sans-serif;font-size:13px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);padding:14px 16px;cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-1px}
+nav button:hover{color:var(--ink)}
+nav button:focus-visible{outline:2px solid var(--leaf);outline-offset:-2px}
+nav button.on{color:var(--leaf);border-bottom-color:var(--leaf)}
+nav button.on[data-c="ancaman"]{color:var(--clay);border-bottom-color:var(--clay)}
+nav button.on[data-c="konservasi"]{color:var(--seed);border-bottom-color:var(--seed)}
+.search{margin-left:auto;display:flex;align-items:center;gap:8px}
+.search svg{color:var(--muted);flex:none}
+.search input{border:0;border-bottom:1.5px solid var(--line);background:transparent;font-family:Caveat,cursive;font-size:19px;color:var(--ink);padding:6px 2px;width:170px;transition:border-color .15s,width .2s}
+.search input:focus{outline:none;border-bottom-color:var(--leaf);width:220px}
 .search input::placeholder{color:#a8a893}
 
-/* ---------- list ---------- */
-main{max-width:880px;margin:0 auto;padding:8px 24px 80px}
-.month{font-family:var(--font-head);font-size:22px;font-weight:600;margin:38px 0 6px;padding-bottom:10px;border-bottom:2px solid var(--border);display:flex;justify-content:space-between;align-items:baseline}
-.month small{font-family:var(--font-body);font-size:13px;color:var(--ink-muted);font-weight:500}
-.item{display:grid;grid-template-columns:86px 1fr;gap:18px;padding:18px 6px;border-bottom:1px solid var(--border);align-items:baseline}
-.item:hover{background:var(--card)}
-.item .date{font-size:13px;color:var(--ink-muted);font-variant-numeric:tabular-nums;padding-top:3px}
-.item h3{font-family:var(--font-head);font-size:18.5px;font-weight:600;line-height:1.32;text-wrap:pretty}
-.item h3 a{text-decoration:none}
-.item h3 a:hover{color:var(--terra);text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
-.item .sub{margin-top:7px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-size:13px;color:var(--ink-muted)}
-.tag{font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;padding:2.5px 8px}
-.tag.kekayaan{background:var(--sage-soft);color:#4a6343}
-.tag.ancaman{background:var(--terra-soft);color:#96522f}
-.tag.konservasi{background:var(--gold-soft);color:#8a6c26}
-.empty{padding:70px 0;text-align:center;color:var(--ink-muted);font-size:15px}
-.more-wrap{text-align:center;margin-top:34px}
-.more{border:1.5px solid var(--ink);background:transparent;color:var(--ink);border-radius:999px;padding:11px 28px;font-family:var(--font-body);font-size:14.5px;font-weight:700;cursor:pointer;transition:all .15s}
-.more:hover{background:var(--ink);color:var(--card)}
+/* ---------- main ---------- */
+main{max-width:1000px;margin:0 auto;padding:34px 28px 90px}
+.lead{padding-bottom:30px;margin-bottom:8px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:120px 1fr;gap:30px;align-items:start}
+.lead .motif{color:var(--leaf-lt)}
+.kicker{font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;margin-bottom:10px}
+.kicker.kekayaan{color:var(--leaf)} .kicker.ancaman{color:var(--clay)} .kicker.konservasi{color:var(--seed)}
+.lead h2{font-family:Fraunces,serif;font-size:clamp(26px,4vw,38px);font-weight:600;line-height:1.15;text-wrap:pretty}
+.lead h2 a{text-decoration:none}
+.lead h2 a:hover{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.byline{margin-top:12px;font-size:13.5px;color:var(--muted)}
+.byline b{color:var(--ink)}
+.lead .note{margin-top:10px;font-family:Caveat,cursive;font-size:20px;color:var(--pencil)}
 
-footer{border-top:1px solid var(--border);background:var(--bg-soft)}
-.foot-inner{max-width:880px;margin:0 auto;padding:34px 24px;font-size:13.5px;color:var(--ink-muted);line-height:1.7}
+.month{font-family:Caveat,cursive;font-size:26px;font-weight:600;color:var(--pencil);margin:34px 0 2px;display:flex;align-items:baseline;gap:14px;grid-column:1/-1}
+.month::after{content:"";flex:1;border-bottom:1px solid var(--line);transform:translateY(-6px)}
+.month small{font-size:16px;color:var(--muted)}
 
-@media(max-width:560px){
-  header{padding-top:44px}
-  .item{grid-template-columns:1fr;gap:4px}
-  .item .date{order:2;font-size:12px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:0 56px}
+article{padding:19px 0;border-bottom:1px dashed #cfc5a8;display:grid;grid-template-columns:52px 1fr;gap:14px}
+article .no{font-family:Caveat,cursive;font-size:18px;color:var(--pencil);padding-top:2px;line-height:1.25}
+article .no small{display:block;font-size:12.5px;opacity:.75}
+article h3{font-family:Fraunces,serif;font-size:18.5px;font-weight:600;line-height:1.28;text-wrap:pretty}
+article h3 a{text-decoration:none}
+article h3 a:hover{color:var(--clay);text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
+article .obs{margin-top:6px;font-size:12.5px;color:var(--muted)}
+article .obs .lbl{font-family:Caveat,cursive;font-size:16.5px;margin-right:7px}
+.lbl.kekayaan{color:var(--leaf)} .lbl.ancaman{color:var(--clay)} .lbl.konservasi{color:var(--seed)}
+
+.empty{padding:70px 0;text-align:center;color:var(--muted);font-family:Caveat,cursive;font-size:24px}
+.more-wrap{text-align:center;margin-top:38px}
+.more{border:1.5px solid var(--ink);background:transparent;color:var(--ink);border-radius:2px;padding:11px 30px;font-family:Karla,sans-serif;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;cursor:pointer;transition:all .15s}
+.more:hover{background:var(--ink);color:var(--paper)}
+
+/* ---------- footer ---------- */
+footer{border-top:2px solid var(--ink)}
+.foot{max-width:1000px;margin:0 auto;padding:30px 28px;display:flex;justify-content:space-between;align-items:center;gap:20px;font-size:13px;color:var(--muted)}
+.foot .hand{font-size:20px;color:var(--pencil)}
+.foot svg{color:var(--leaf);flex:none}
+
+@media(max-width:720px){
+  .cols{grid-template-columns:1fr}
+  .lead{grid-template-columns:1fr}.lead .motif{display:none}
+  nav{flex-wrap:wrap;padding-bottom:10px}
+  .search{margin-left:0;width:100%}
+  .search input{width:100%}
+  .search input:focus{width:100%}
+  .specimens{gap:14px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 </head>
 <body>
 
+<!-- canopy frieze: kanopi, pakis, kantong semar, rangkong -->
+<svg class="frieze" viewBox="0 0 1200 74" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+  <g fill="currentColor" opacity=".92">
+    <path d="M0,74 C60,30 140,42 200,18 C240,4 300,10 340,26 C400,50 460,20 520,30 C580,40 640,8 700,20 C760,32 820,6 880,22 C940,38 1000,14 1060,28 C1120,42 1180,24 1200,34 L1200,74 Z" opacity=".18"/>
+    <path d="M0,74 C80,48 160,56 240,40 C320,24 400,44 480,36 C560,28 640,52 720,42 C800,32 880,54 960,44 C1040,34 1120,56 1200,46 L1200,74 Z" opacity=".38"/>
+    <g transform="translate(120,74) scale(1,-1)">
+      <path d="M0,0 Q4,28 2,52 M2,12 Q14,16 20,26 M2,12 Q-10,16 -16,26 M2,26 Q12,30 16,38 M2,26 Q-8,30 -12,38 M2,40 Q9,43 11,49 M2,40 Q-5,43 -7,49" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(1050,74) scale(-1.2,-1.2)">
+      <path d="M0,0 Q4,26 2,46 M2,10 Q13,14 18,23 M2,10 Q-9,14 -14,23 M2,23 Q11,27 14,34 M2,23 Q-7,27 -10,34" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(620,74)">
+      <path d="M0,0 C-2,-14 -3,-26 0,-34 C3,-42 12,-44 15,-37 C18,-30 14,-24 10,-22 C16,-26 22,-22 20,-14 C18,-6 8,-2 0,0 Z" opacity=".85"/>
+      <path d="M15,-37 Q19,-45 26,-44" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(870,20) scale(1.05)">
+      <path d="M0,6 C6,1 14,-2 22,0 C27,1 30,4 36,3 C42,2 47,5 52,4 L46,8 C40,10 34,8 28,10 C20,13 8,12 0,6 Z" opacity=".8"/>
+      <path d="M22,0 C24,-4 30,-6 34,-4 L28,1 Z" opacity=".8"/>
+    </g>
+  </g>
+</svg>
+
 <header>
-  <p class="eyebrow">Arsip Berita · Biodiversitas Indonesia</p>
-  <h1>Kabar dari rimba, laut, dan <em>segala yang hidup</em> di Nusantara.</h1>
-  <p class="lede">Kompilasi berita terkini tentang kekayaan hayati Indonesia — dan ancaman yang membayanginya. Dikumpulkan dari berbagai media nasional, disusun sebagai arsip yang terus tumbuh.</p>
-  <p class="meta-line"><span><b id="stat-total">–</b> berita terarsip</span><span>Pembaruan terakhir: <b id="stat-updated">–</b></span></p>
+  <h1 class="masthead">Rimba <span class="amp">&amp;</span> Kabar</h1>
+  <p class="tagline">Lembaran Hayati Nusantara</p>
+  <p class="stats"><span class="hand" id="stat-total">…</span> guntingan berita terarsip · pembaruan terakhir <span class="hand" id="stat-updated">…</span></p>
 </header>
 
-<div class="controls">
-  <div class="controls-inner">
-    <button class="chip active" data-cat="all">Semua</button>
-    <button class="chip" data-cat="kekayaan">🌱 Kekayaan</button>
-    <button class="chip" data-cat="ancaman">🔥 Ancaman</button>
-    <button class="chip" data-cat="konservasi">🕊️ Konservasi</button>
-    <div class="search"><input id="q" type="search" placeholder="Cari judul atau sumber…" aria-label="Cari berita"></div>
-  </div>
+<!-- specimen divider from sketsa naturalis -->
+<div class="specimens" aria-hidden="true">
+  <figure>
+    <svg width="86" height="70" viewBox="0 0 86 70" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+      <circle cx="43" cy="38" r="9"/><circle cx="43" cy="38" r="4" fill="currentColor" opacity=".3"/>
+      <path d="M43 22 C36 12 48 8 52 16 C58 10 68 16 62 25 C72 24 74 36 64 39 C72 46 64 56 55 51 C56 62 42 64 40 54 C32 62 20 54 26 45 C16 44 16 32 26 31 C20 22 32 14 38 22"/>
+      <path d="M39 35 l2 2 M47 34 l-2 2 M43 43 l0 2" opacity=".6"/>
+    </svg>
+    <figcaption>Rafflesia arnoldii</figcaption>
+  </figure>
+  <figure>
+    <svg width="70" height="76" viewBox="0 0 70 76" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+      <circle cx="35" cy="22" r="12"/>
+      <path d="M29 20 a3 3 0 1 0 .1 0 M41 20 a3 3 0 1 0 .1 0" opacity=".6"/>
+      <path d="M31 28 q4 3 8 0"/>
+      <path d="M25 34 C14 40 10 54 12 68 M45 34 C56 40 60 54 58 68"/>
+      <path d="M28 36 C26 50 28 62 30 70 M42 36 C44 50 42 62 40 70"/>
+      <path d="M12 68 q4 4 8 2 M58 68 q-4 4 -8 2"/>
+    </svg>
+    <figcaption>Pongo abelii</figcaption>
+  </figure>
+  <figure>
+    <svg width="110" height="52" viewBox="0 0 110 52" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+      <path d="M6 30 C14 22 30 20 44 22 C60 24 72 22 84 26 C92 28 100 26 106 22 C102 30 94 34 86 34 C74 36 58 36 46 34 C32 32 18 34 10 38 C6 36 4 33 6 30 Z"/>
+      <path d="M20 36 L16 46 M34 35 L32 46 M62 35 L64 46 M78 34 L82 44"/>
+      <path d="M6 30 q-3 -2 -4 -5 M100 25 l6 -3" opacity=".7"/>
+      <path d="M30 24 l2 -3 M44 23 l1 -3 M58 24 l1 -3 M72 24 l2 -3" opacity=".5"/>
+    </svg>
+    <figcaption>Varanus komodoensis</figcaption>
+  </figure>
+</div>
+
+<div class="rule">
+  <svg viewBox="0 0 900 18" preserveAspectRatio="none" aria-hidden="true"><path d="M0,9 H380 M520,9 H900" stroke="currentColor" stroke-width="1"/><g fill="currentColor"><path d="M450,2 C458,5 462,9 450,16 C438,9 442,5 450,2 Z"/><circle cx="420" cy="9" r="2"/><circle cx="480" cy="9" r="2"/><path d="M398,9 h10 M492,9 h10" stroke="currentColor" stroke-width="1.4"/></g></svg>
+</div>
+
+<div class="navwrap">
+  <nav id="nav">
+    <button class="on" data-c="all">Semua</button>
+    <button data-c="kekayaan">Kekayaan</button>
+    <button data-c="ancaman">Ancaman</button>
+    <button data-c="konservasi">Konservasi</button>
+    <div class="search">
+      <svg width="15" height="15" viewBox="0 0 15 15" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="6.5" cy="6.5" r="5"/><path d="M10.5 10.5 L14 14"/></svg>
+      <input id="q" type="search" placeholder="cari catatan…" aria-label="Cari berita">
+    </div>
+  </nav>
 </div>
 
 <main>
-  <div id="list"></div>
+  <div id="lead"></div>
+  <div id="list" class="cols"></div>
   <div class="more-wrap"><button class="more" id="more" hidden>Muat lebih banyak</button></div>
 </main>
 
 <footer>
-  <div class="foot-inner">
-    <b style="color:var(--ink)">Rimba Kabar</b> — arsip berita flora &amp; fauna Indonesia.<br>
-    Tautan mengarah ke media aslinya; seluruh hak konten milik masing-masing penerbit. Kategori ditetapkan otomatis berdasarkan topik pencarian.
+  <div class="foot">
+    <svg width="38" height="38" viewBox="0 0 40 40" aria-hidden="true"><path d="M20 36 C20 22 12 16 4 14 C14 12 20 18 20 26 C20 16 26 8 36 8 C30 16 28 26 20 36 Z" fill="currentColor"/></svg>
+    <span>Rimba Kabar — arsip berita flora &amp; fauna Indonesia. Tautan menuju penerbit aslinya; hak konten milik masing-masing media.</span>
+    <span class="hand">— dicatat terus, selama rimba masih bersuara ✦</span>
   </div>
 </footer>
 
 <script>
-const MONTHS = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
-let ALL = [], filtered = [], shown = 0;
-const PAGE = 40;
-let cat = "all", q = "";
+const MON=["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+const MON3=["Jan","Feb","Mar","Apr","Mei","Jun","Jul","Agu","Sep","Okt","Nov","Des"];
+const CATLBL={kekayaan:"Kekayaan Hayati",ancaman:"Ancaman",konservasi:"Konservasi"};
+const OBS={kekayaan:"kekayaan ↗",ancaman:"ancaman !",konservasi:"konservasi ✓"};
+const PAGE=48;
+let ALL=[],filtered=[],shown=0,cat="all",q="";
 
-const listEl = document.getElementById("list");
-const moreBtn = document.getElementById("more");
+const leadEl=document.getElementById("lead"),listEl=document.getElementById("list"),moreBtn=document.getElementById("more");
 
-fetch("data/news.json").then(r=>r.json()).then(data=>{
-  ALL = data.filter(d=>d.date);
-  document.getElementById("stat-total").textContent = ALL.length.toLocaleString("id-ID");
-  document.getElementById("stat-updated").textContent = fmtDate(ALL[0]?.date);
+fetch("data/news.json").then(r=>r.json()).then(d=>{
+  ALL=d.filter(x=>x.date);
+  document.getElementById("stat-total").textContent=ALL.length.toLocaleString("id-ID");
+  document.getElementById("stat-updated").textContent=fdLong(ALL[0]?.date);
   apply();
 });
 
-function fmtDate(iso){
-  if(!iso) return "–";
-  const [y,m,d] = iso.split("-").map(Number);
-  return `${d} ${MONTHS[m-1]} ${y}`;
-}
+function fdLong(iso){if(!iso)return"–";const[y,m,d]=iso.split("-");return`${+d} ${MON[+m-1]} ${y}`}
+function fd(iso){const[y,m,d]=iso.split("-");return`${+d} ${MON3[+m-1]} '${y.slice(2)}`}
+function mk(iso){const[y,m]=iso.split("-");return`${MON[+m-1]} ${y}`}
+function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 
 function apply(){
-  const needle = q.trim().toLowerCase();
-  filtered = ALL.filter(it =>
-    (cat==="all" || it.category===cat) &&
-    (!needle || it.title.toLowerCase().includes(needle) || (it.source||"").toLowerCase().includes(needle))
-  );
-  shown = 0;
-  listEl.innerHTML = "";
-  renderMore();
+  const n=q.trim().toLowerCase();
+  filtered=ALL.filter(it=>(cat==="all"||it.category===cat)&&(!n||it.title.toLowerCase().includes(n)||(it.source||"").toLowerCase().includes(n)));
+  shown=0;leadEl.innerHTML="";listEl.innerHTML="";
+  renderLead();renderMore();
+}
+
+function renderLead(){
+  const lead=filtered[0];
+  if(!lead){listEl.innerHTML=`<p class="empty" style="grid-column:1/-1">tidak ada catatan yang cocok — coba kata lain…</p>`;moreBtn.hidden=true;return}
+  leadEl.innerHTML=`<div class="lead">
+    <svg class="motif" width="120" height="130" viewBox="0 0 120 130" aria-hidden="true">
+      <path d="M60 120 C60 85 40 68 15 62 C45 56 60 72 60 95 C60 68 78 45 105 42 C88 62 82 92 60 120 Z" fill="currentColor"/>
+      <path d="M60 120 Q58 60 62 20 M62 20 Q70 30 78 33 M62 20 Q52 28 45 30" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </svg>
+    <div><p class="kicker ${lead.category}">${CATLBL[lead.category]}</p>
+    <h2><a href="${lead.link}" target="_blank" rel="noopener">${esc(lead.title)}</a></h2>
+    <p class="byline">${lead.source?`<b>${esc(lead.source)}</b> · `:""}${fdLong(lead.date)}</p>
+    <p class="note">— guntingan terbaru dalam arsip ini</p></div></div>`;
 }
 
 function renderMore(){
-  const batch = filtered.slice(shown, shown+PAGE);
-  shown += batch.length;
-  if(filtered.length===0){
-    listEl.innerHTML = `<p class="empty">Tidak ada berita yang cocok. Coba kata kunci lain.</p>`;
-  }
-  let html = "";
-  let lastMonth = shown>batch.length ? monthKey(filtered[shown-batch.length-1].date) : null;
-  const counts = {};
-  filtered.forEach(it=>{ const k=monthKey(it.date); counts[k]=(counts[k]||0)+1; });
-  for(const it of batch){
-    const mk = monthKey(it.date);
-    if(mk!==lastMonth){
-      html += `<h2 class="month">${mk}<small>${counts[mk]} berita</small></h2>`;
-      lastMonth = mk;
-    }
-    const [y,m,d] = it.date.split("-");
-    html += `<article class="item">
-      <span class="date">${Number(d)} ${MONTHS[m-1].slice(0,3)}</span>
-      <div>
-        <h3><a href="${it.link}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
-        <div class="sub"><span class="tag ${it.category}">${it.category}</span>${it.source?`<span>${esc(it.source)}</span>`:""}</div>
-      </div>
+  if(!filtered.length)return;
+  const rest=filtered.slice(1);
+  const batch=rest.slice(shown,shown+PAGE);
+  const counts={};rest.forEach(it=>{const k=mk(it.date);counts[k]=(counts[k]||0)+1});
+  let lastMonth=shown>0?mk(rest[shown-1].date):null;
+  let h="";
+  batch.forEach((it,i)=>{
+    const m=mk(it.date);
+    if(m!==lastMonth){h+=`<h2 class="month">${m}<small>${counts[m]} catatan</small></h2>`;lastMonth=m}
+    h+=`<article>
+      <div class="no">No. ${String(shown+i+2).padStart(3,"0")}<small>${fd(it.date)}</small></div>
+      <div><h3><a href="${it.link}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+      <p class="obs"><span class="lbl ${it.category}">${OBS[it.category]}</span>${it.source?esc(it.source):""}</p></div>
     </article>`;
-  }
-  listEl.insertAdjacentHTML("beforeend", html);
-  moreBtn.hidden = shown >= filtered.length;
+  });
+  shown+=batch.length;
+  listEl.insertAdjacentHTML("beforeend",h);
+  moreBtn.hidden=shown>=rest.length;
 }
 
-function monthKey(iso){
-  const [y,m] = iso.split("-").map(Number);
-  return `${MONTHS[m-1]} ${y}`;
-}
-function esc(s){ return s.replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
-
-moreBtn.addEventListener("click", renderMore);
-document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click", ()=>{
-  document.querySelectorAll(".chip").forEach(x=>x.classList.remove("active"));
-  b.classList.add("active");
-  cat = b.dataset.cat;
-  apply();
-}));
-let deb;
-document.getElementById("q").addEventListener("input", e=>{
-  clearTimeout(deb);
-  deb = setTimeout(()=>{ q = e.target.value; apply(); }, 180);
+moreBtn.addEventListener("click",renderMore);
+document.getElementById("nav").addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  document.querySelectorAll("#nav button").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on");cat=b.dataset.c;apply();
 });
+let deb;
+document.getElementById("q").addEventListener("input",e=>{clearTimeout(deb);deb=setTimeout(()=>{q=e.target.value;apply()},180)});
 </script>
 </body>
 </html>
