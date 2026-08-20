@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rimba Kabar — Arsip Berita Flora &amp; Fauna Indonesia</title>
+<meta name="description" content="Kompilasi berita terkini tentang kekayaan dan ancaman terhadap flora dan fauna Indonesia.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#faf5ec;
+  --bg-soft:#f3ecdd;
+  --card:#fffdf8;
+  --ink:#33402f;
+  --ink-muted:#6f7a68;
+  --border:#e5dcc8;
+  --sage:#7d9b76;
+  --sage-soft:#e3ecdd;
+  --terra:#c2704e;
+  --terra-soft:#f5e2d7;
+  --gold:#b8923f;
+  --gold-soft:#f3e8cd;
+  --radius:14px;
+  --font-head:"Fraunces",Georgia,serif;
+  --font-body:"Karla",system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);line-height:1.55;font-size:16px}
+a{color:inherit}
+
+/* ---------- header ---------- */
+header{max-width:880px;margin:0 auto;padding:64px 24px 36px}
+.eyebrow{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--sage);font-weight:700;margin-bottom:14px}
+h1{font-family:var(--font-head);font-weight:700;font-size:clamp(34px,6vw,54px);line-height:1.08;letter-spacing:-.01em}
+h1 em{font-style:italic;color:var(--terra)}
+.lede{margin-top:18px;max-width:56ch;color:var(--ink-muted);font-size:17.5px;text-wrap:pretty}
+.meta-line{margin-top:22px;font-size:13.5px;color:var(--ink-muted);display:flex;gap:18px;flex-wrap:wrap}
+.meta-line b{color:var(--ink)}
+
+/* ---------- controls ---------- */
+.controls{position:sticky;top:0;z-index:10;background:linear-gradient(var(--bg) 82%,rgba(250,245,236,0));padding:14px 24px 18px}
+.controls-inner{max-width:880px;margin:0 auto;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.chip{border:1.5px solid var(--border);background:var(--card);border-radius:999px;padding:8px 16px;font-family:var(--font-body);font-size:14px;font-weight:500;color:var(--ink-muted);cursor:pointer;transition:all .15s ease}
+.chip:hover{border-color:var(--sage)}
+.chip:focus-visible{outline:2px solid var(--sage);outline-offset:2px}
+.chip.active{font-weight:700;color:var(--ink)}
+.chip.active[data-cat="all"]{background:var(--ink);color:var(--card);border-color:var(--ink)}
+.chip.active[data-cat="kekayaan"]{background:var(--sage-soft);border-color:var(--sage);color:#4a6343}
+.chip.active[data-cat="ancaman"]{background:var(--terra-soft);border-color:var(--terra);color:#96522f}
+.chip.active[data-cat="konservasi"]{background:var(--gold-soft);border-color:var(--gold);color:#8a6c26}
+.search{flex:1;min-width:200px;display:flex}
+.search input{width:100%;border:1.5px solid var(--border);background:var(--card);border-radius:999px;padding:9px 18px;font-family:var(--font-body);font-size:14.5px;color:var(--ink)}
+.search input:focus{outline:2px solid var(--sage);outline-offset:1px;border-color:var(--sage)}
+.search input::placeholder{color:#a8a893}
+
+/* ---------- list ---------- */
+main{max-width:880px;margin:0 auto;padding:8px 24px 80px}
+.month{font-family:var(--font-head);font-size:22px;font-weight:600;margin:38px 0 6px;padding-bottom:10px;border-bottom:2px solid var(--border);display:flex;justify-content:space-between;align-items:baseline}
+.month small{font-family:var(--font-body);font-size:13px;color:var(--ink-muted);font-weight:500}
+.item{display:grid;grid-template-columns:86px 1fr;gap:18px;padding:18px 6px;border-bottom:1px solid var(--border);align-items:baseline}
+.item:hover{background:var(--card)}
+.item .date{font-size:13px;color:var(--ink-muted);font-variant-numeric:tabular-nums;padding-top:3px}
+.item h3{font-family:var(--font-head);font-size:18.5px;font-weight:600;line-height:1.32;text-wrap:pretty}
+.item h3 a{text-decoration:none}
+.item h3 a:hover{color:var(--terra);text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
+.item .sub{margin-top:7px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-size:13px;color:var(--ink-muted)}
+.tag{font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:6px;padding:2.5px 8px}
+.tag.kekayaan{background:var(--sage-soft);color:#4a6343}
+.tag.ancaman{background:var(--terra-soft);color:#96522f}
+.tag.konservasi{background:var(--gold-soft);color:#8a6c26}
+.empty{padding:70px 0;text-align:center;color:var(--ink-muted);font-size:15px}
+.more-wrap{text-align:center;margin-top:34px}
+.more{border:1.5px solid var(--ink);background:transparent;color:var(--ink);border-radius:999px;padding:11px 28px;font-family:var(--font-body);font-size:14.5px;font-weight:700;cursor:pointer;transition:all .15s}
+.more:hover{background:var(--ink);color:var(--card)}
+
+footer{border-top:1px solid var(--border);background:var(--bg-soft)}
+.foot-inner{max-width:880px;margin:0 auto;padding:34px 24px;font-size:13.5px;color:var(--ink-muted);line-height:1.7}
+
+@media(max-width:560px){
+  header{padding-top:44px}
+  .item{grid-template-columns:1fr;gap:4px}
+  .item .date{order:2;font-size:12px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Arsip Berita · Biodiversitas Indonesia</p>
+  <h1>Kabar dari rimba, laut, dan <em>segala yang hidup</em> di Nusantara.</h1>
+  <p class="lede">Kompilasi berita terkini tentang kekayaan hayati Indonesia — dan ancaman yang membayanginya. Dikumpulkan dari berbagai media nasional, disusun sebagai arsip yang terus tumbuh.</p>
+  <p class="meta-line"><span><b id="stat-total">–</b> berita terarsip</span><span>Pembaruan terakhir: <b id="stat-updated">–</b></span></p>
+</header>
+
+<div class="controls">
+  <div class="controls-inner">
+    <button class="chip active" data-cat="all">Semua</button>
+    <button class="chip" data-cat="kekayaan">🌱 Kekayaan</button>
+    <button class="chip" data-cat="ancaman">🔥 Ancaman</button>
+    <button class="chip" data-cat="konservasi">🕊️ Konservasi</button>
+    <div class="search"><input id="q" type="search" placeholder="Cari judul atau sumber…" aria-label="Cari berita"></div>
+  </div>
+</div>
+
+<main>
+  <div id="list"></div>
+  <div class="more-wrap"><button class="more" id="more" hidden>Muat lebih banyak</button></div>
+</main>
+
+<footer>
+  <div class="foot-inner">
+    <b style="color:var(--ink)">Rimba Kabar</b> — arsip berita flora &amp; fauna Indonesia.<br>
+    Tautan mengarah ke media aslinya; seluruh hak konten milik masing-masing penerbit. Kategori ditetapkan otomatis berdasarkan topik pencarian.
+  </div>
+</footer>
+
+<script>
+const MONTHS = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+let ALL = [], filtered = [], shown = 0;
+const PAGE = 40;
+let cat = "all", q = "";
+
+const listEl = document.getElementById("list");
+const moreBtn = document.getElementById("more");
+
+fetch("data/news.json").then(r=>r.json()).then(data=>{
+  ALL = data.filter(d=>d.date);
+  document.getElementById("stat-total").textContent = ALL.length.toLocaleString("id-ID");
+  document.getElementById("stat-updated").textContent = fmtDate(ALL[0]?.date);
+  apply();
+});
+
+function fmtDate(iso){
+  if(!iso) return "–";
+  const [y,m,d] = iso.split("-").map(Number);
+  return `${d} ${MONTHS[m-1]} ${y}`;
+}
+
+function apply(){
+  const needle = q.trim().toLowerCase();
+  filtered = ALL.filter(it =>
+    (cat==="all" || it.category===cat) &&
+    (!needle || it.title.toLowerCase().includes(needle) || (it.source||"").toLowerCase().includes(needle))
+  );
+  shown = 0;
+  listEl.innerHTML = "";
+  renderMore();
+}
+
+function renderMore(){
+  const batch = filtered.slice(shown, shown+PAGE);
+  shown += batch.length;
+  if(filtered.length===0){
+    listEl.innerHTML = `<p class="empty">Tidak ada berita yang cocok. Coba kata kunci lain.</p>`;
+  }
+  let html = "";
+  let lastMonth = shown>batch.length ? monthKey(filtered[shown-batch.length-1].date) : null;
+  const counts = {};
+  filtered.forEach(it=>{ const k=monthKey(it.date); counts[k]=(counts[k]||0)+1; });
+  for(const it of batch){
+    const mk = monthKey(it.date);
+    if(mk!==lastMonth){
+      html += `<h2 class="month">${mk}<small>${counts[mk]} berita</small></h2>`;
+      lastMonth = mk;
+    }
+    const [y,m,d] = it.date.split("-");
+    html += `<article class="item">
+      <span class="date">${Number(d)} ${MONTHS[m-1].slice(0,3)}</span>
+      <div>
+        <h3><a href="${it.link}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+        <div class="sub"><span class="tag ${it.category}">${it.category}</span>${it.source?`<span>${esc(it.source)}</span>`:""}</div>
+      </div>
+    </article>`;
+  }
+  listEl.insertAdjacentHTML("beforeend", html);
+  moreBtn.hidden = shown >= filtered.length;
+}
+
+function monthKey(iso){
+  const [y,m] = iso.split("-").map(Number);
+  return `${MONTHS[m-1]} ${y}`;
+}
+function esc(s){ return s.replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+moreBtn.addEventListener("click", renderMore);
+document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click", ()=>{
+  document.querySelectorAll(".chip").forEach(x=>x.classList.remove("active"));
+  b.classList.add("active");
+  cat = b.dataset.cat;
+  apply();
+}));
+let deb;
+document.getElementById("q").addEventListener("input", e=>{
+  clearTimeout(deb);
+  deb = setTimeout(()=>{ q = e.target.value; apply(); }, 180);
+});
+</script>
+</body>
+</html>
