@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rimba Kabar daily update: harvest recent news, merge, push.
+"""Kabar Rimba daily update: harvest recent news, merge, push.
 
 Prints a short summary line when new items land; prints nothing when
 there is nothing new (so a no_agent cron stays silent).
@@ -97,7 +97,7 @@ def main():
                    check=True, capture_output=True)
     subprocess.run(["git", "push", "origin", "main"],
                    check=True, capture_output=True)
-    print(f"🌿 Rimba Kabar: +{len(added)} berita baru hari ini (total {len(merged)}) — sudah live di https://ais-adri.github.io/rimba-kabar/")
+    print(f"🌿 Kabar Rimba: +{len(added)} berita baru hari ini (total {len(merged)}) — sudah live di https://ais-adri.github.io/kabar-rimba/")
 
 if __name__ == "__main__":
     main()

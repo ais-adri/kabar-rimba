@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kabar Rimba — Catatan Naturalis</title>
+<link href="https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,600;0,700;1,400&family=Caveat:wght@500;600&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --field:#efe9d9; --page:#faf7ee; --ink:#3a3226; --faded:#847а66;
+  --faded:#847963; --pencil:#5b5342; --moss:#5a7048; --rust:#b05b34; --ochre:#a4813a;
+  --grid:#e2dac4;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--field);color:var(--ink);font-family:Gelasio,Georgia,serif;line-height:1.6;font-size:16px;
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:28px 28px}
+a{color:inherit}
+
+.book{max-width:820px;margin:52px auto 80px;background:var(--page);border:1px solid #d9d0b6;box-shadow:0 2px 0 #d9d0b6, 8px 10px 0 rgba(58,50,38,.08);padding:54px 60px 60px;position:relative}
+.book::before{content:"";position:absolute;left:34px;top:0;bottom:0;width:1px;background:#e5b8a8}
+
+.stamp{position:absolute;top:26px;right:34px;transform:rotate(6deg);border:2px solid var(--rust);color:var(--rust);border-radius:6px;padding:5px 12px;font-family:Karla,sans-serif;font-weight:700;font-size:11px;letter-spacing:.2em;text-transform:uppercase;opacity:.75}
+.date-hand{font-family:Caveat,cursive;font-size:22px;color:var(--pencil);margin-bottom:4px}
+h1{font-weight:700;font-size:clamp(30px,5vw,42px);line-height:1.1;letter-spacing:-.01em}
+h1 em{font-style:italic;color:var(--moss)}
+.intro{margin-top:12px;color:var(--pencil);font-style:italic;max-width:52ch}
+
+.specimen-row{margin:26px 0 8px;display:flex;gap:26px;align-items:flex-end;color:var(--moss)}
+.specimen-row figure{text-align:center}
+.specimen-row figcaption{font-family:Caveat,cursive;font-size:16px;color:var(--pencil);margin-top:2px}
+
+.filters{margin:22px 0 4px;display:flex;gap:8px;flex-wrap:wrap;font-family:Karla,sans-serif}
+.filters button{background:transparent;border:1.5px solid var(--pencil);color:var(--pencil);font-family:Caveat,cursive;font-size:19px;padding:2px 16px;border-radius:50% 44% 48% 52%/60% 48% 56% 44%;cursor:pointer}
+.filters button:hover{background:rgba(90,112,72,.08)}
+.filters button.on{background:var(--moss);border-color:var(--moss);color:var(--page)}
+.filters button.on[data-c="ancaman"]{background:var(--rust);border-color:var(--rust)}
+.filters button.on[data-c="konservasi"]{background:var(--ochre);border-color:var(--ochre)}
+
+.entry{padding:20px 0 18px;border-bottom:1px dashed #cfc5a8;display:grid;grid-template-columns:64px 1fr;gap:18px}
+.entry .no{font-family:Caveat,cursive;font-size:20px;color:var(--pencil);padding-top:2px}
+.entry .no small{display:block;font-size:13px;opacity:.7}
+.entry h3{font-size:19.5px;font-weight:600;line-height:1.3;text-wrap:pretty}
+.entry h3 a{text-decoration:none}
+.entry h3 a:hover{color:var(--rust);text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
+.entry .obs{margin-top:6px;font-family:Karla,sans-serif;font-size:13px;color:var(--faded)}
+.entry .obs .lbl{font-family:Caveat,cursive;font-size:17px;margin-right:6px}
+.lbl.kekayaan{color:var(--moss)} .lbl.ancaman{color:var(--rust)} .lbl.konservasi{color:var(--ochre)}
+
+.foot-note{margin-top:34px;font-family:Caveat,cursive;font-size:20px;color:var(--pencil);text-align:right}
+@media(max-width:620px){.book{margin:20px 12px;padding:40px 24px}.book::before{left:16px}.entry{grid-template-columns:1fr;gap:4px}}
+</style>
+</head>
+<body>
+
+<div class="book">
+  <div class="stamp">Arsip Lapangan</div>
+  <p class="date-hand" id="today">Buku catatan — Nusantara</p>
+  <h1>Catatan <em>Naturalis</em>: kabar flora &amp; fauna Indonesia</h1>
+  <p class="intro">Guntingan berita yang kutempel dan kuberi anotasi — tentang kekayaan hayati negeri ini, ancaman yang mengintainya, dan orang-orang yang menjaganya.</p>
+
+  <div class="specimen-row" aria-hidden="true">
+    <!-- rafflesia sketch -->
+    <figure>
+      <svg width="86" height="70" viewBox="0 0 86 70" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+        <circle cx="43" cy="38" r="9"/>
+        <circle cx="43" cy="38" r="4" fill="currentColor" opacity=".3"/>
+        <path d="M43 22 C36 12 48 8 52 16 C58 10 68 16 62 25 C72 24 74 36 64 39 C72 46 64 56 55 51 C56 62 42 64 40 54 C32 62 20 54 26 45 C16 44 16 32 26 31 C20 22 32 14 38 22"/>
+        <path d="M39 35 l2 2 M47 34 l-2 2 M43 43 l0 2" opacity=".6"/>
+      </svg>
+      <figcaption>Rafflesia arnoldii</figcaption>
+    </figure>
+    <!-- orangutan sketch -->
+    <figure>
+      <svg width="70" height="76" viewBox="0 0 70 76" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+        <circle cx="35" cy="22" r="12"/>
+        <path d="M29 20 a3 3 0 1 0 .1 0 M41 20 a3 3 0 1 0 .1 0" opacity=".6"/>
+        <path d="M31 28 q4 3 8 0"/>
+        <path d="M25 34 C14 40 10 54 12 68 M45 34 C56 40 60 54 58 68"/>
+        <path d="M28 36 C26 50 28 62 30 70 M42 36 C44 50 42 62 40 70"/>
+        <path d="M12 68 q4 4 8 2 M58 68 q-4 4 -8 2"/>
+      </svg>
+      <figcaption>Pongo abelii</figcaption>
+    </figure>
+    <!-- komodo sketch -->
+    <figure>
+      <svg width="110" height="52" viewBox="0 0 110 52" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+        <path d="M6 30 C14 22 30 20 44 22 C60 24 72 22 84 26 C92 28 100 26 106 22 C102 30 94 34 86 34 C74 36 58 36 46 34 C32 32 18 34 10 38 C6 36 4 33 6 30 Z"/>
+        <path d="M20 36 L16 46 M34 35 L32 46 M62 35 L64 46 M78 34 L82 44"/>
+        <path d="M6 30 q-3 -2 -4 -5 M100 25 l6 -3" opacity=".7"/>
+        <path d="M30 24 l2 -3 M44 23 l1 -3 M58 24 l1 -3 M72 24 l2 -3" opacity=".5"/>
+      </svg>
+      <figcaption>Varanus komodoensis</figcaption>
+    </figure>
+  </div>
+
+  <div class="filters" id="nav">
+    <button class="on" data-c="all">semua</button>
+    <button data-c="kekayaan">kekayaan</button>
+    <button data-c="ancaman">ancaman</button>
+    <button data-c="konservasi">konservasi</button>
+  </div>
+
+  <div id="list"></div>
+
+  <p class="foot-note">— dicatat terus, selama rimba masih bersuara. ✦</p>
+</div>
+
+<script>
+const MON=["Jan","Feb","Mar","Apr","Mei","Jun","Jul","Agu","Sep","Okt","Nov","Des"];
+let DATA=[],cat="all";
+const LBL={kekayaan:"kekayaan ↗",ancaman:"ancaman !",konservasi:"konservasi ✓"};
+fetch("../sample.json").then(r=>r.json()).then(d=>{DATA=d;render()});
+function fd(iso){const[y,m,dd]=iso.split("-");return`${+dd} ${MON[+m-1]} '${y.slice(2)}`}
+function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function render(){
+  const items=DATA.filter(x=>cat==="all"||x.category===cat);
+  document.getElementById("list").innerHTML=items.map((it,i)=>`
+    <div class="entry">
+      <div class="no">No. ${String(i+1).padStart(2,"0")}<small>${fd(it.date)}</small></div>
+      <div>
+        <h3><a href="${it.link}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+        <p class="obs"><span class="lbl ${it.category}">${LBL[it.category]}</span>${it.source?esc(it.source):""}</p>
+      </div>
+    </div>`).join("");
+}
+document.getElementById("nav").addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  document.querySelectorAll("#nav button").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on");cat=b.dataset.c;render();
+});
+</script>
+</body>
+</html>

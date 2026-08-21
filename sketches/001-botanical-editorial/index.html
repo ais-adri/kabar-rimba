@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kabar Rimba — Botanical Editorial</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#f7f2e7; --ink:#2b3527; --muted:#71785f; --line:#d8cfb4;
+  --leaf:#3f5d3a; --leaf-lt:#8aa578; --clay:#a0512f; --seed:#8a6d2c;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:Karla,sans-serif;line-height:1.55}
+a{color:inherit}
+
+/* masthead with botanical frieze */
+.frieze{display:block;width:100%;height:74px;color:var(--leaf)}
+header{max-width:960px;margin:0 auto;padding:26px 28px 8px;text-align:center}
+.masthead{font-family:Fraunces,serif;font-weight:700;font-size:clamp(40px,7vw,64px);letter-spacing:-.015em;line-height:1}
+.masthead .amp{font-style:italic;font-weight:400;color:var(--clay)}
+.tagline{margin-top:10px;font-size:14px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted)}
+.rule{max-width:960px;margin:22px auto 0;padding:0 28px}
+.rule svg{width:100%;height:18px;display:block;color:var(--seed)}
+
+/* nav as newspaper sections */
+nav{max-width:960px;margin:14px auto 0;padding:0 28px;display:flex;justify-content:center;gap:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+nav button{background:none;border:0;font-family:Karla,sans-serif;font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);padding:13px 22px;cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-1px}
+nav button:hover{color:var(--ink)}
+nav button.on{color:var(--leaf);border-bottom-color:var(--leaf)}
+nav button.on[data-c="ancaman"]{color:var(--clay);border-bottom-color:var(--clay)}
+nav button.on[data-c="konservasi"]{color:var(--seed);border-bottom-color:var(--seed)}
+
+main{max-width:960px;margin:0 auto;padding:34px 28px 90px;display:grid;grid-template-columns:1fr 1fr;gap:0 56px}
+.lead{grid-column:1/-1;padding-bottom:30px;margin-bottom:26px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:120px 1fr;gap:30px;align-items:start}
+.lead .motif{color:var(--leaf-lt)}
+.kicker{font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;margin-bottom:10px}
+.kicker.kekayaan{color:var(--leaf)} .kicker.ancaman{color:var(--clay)} .kicker.konservasi{color:var(--seed)}
+.lead h2{font-family:Fraunces,serif;font-size:clamp(26px,4vw,38px);font-weight:600;line-height:1.15;text-wrap:pretty}
+.lead h2 a{text-decoration:none}
+.lead h2 a:hover{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.byline{margin-top:12px;font-size:13.5px;color:var(--muted)}
+.byline b{color:var(--ink);font-weight:700}
+
+article{padding:20px 0;border-bottom:1px solid var(--line)}
+article .kicker{margin-bottom:6px;font-size:11px}
+article h3{font-family:Fraunces,serif;font-size:19px;font-weight:600;line-height:1.28;text-wrap:pretty}
+article h3 a{text-decoration:none}
+article h3 a:hover{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px}
+article .byline{margin-top:8px;font-size:12.5px}
+footer{border-top:2px solid var(--ink);background:var(--paper)}
+.foot{max-width:960px;margin:0 auto;padding:26px 28px;display:flex;justify-content:space-between;align-items:center;gap:20px;font-size:13px;color:var(--muted)}
+.foot svg{color:var(--leaf);flex:none}
+@media(max-width:660px){main{grid-template-columns:1fr}.lead{grid-template-columns:1fr}.lead .motif{display:none}nav{overflow-x:auto;justify-content:flex-start}}
+</style>
+</head>
+<body>
+
+<!-- canopy frieze: kantong semar, pakis, kanopi -->
+<svg class="frieze" viewBox="0 0 1200 74" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+  <g fill="currentColor" opacity=".92">
+    <path d="M0,74 C60,30 140,42 200,18 C240,4 300,10 340,26 C400,50 460,20 520,30 C580,40 640,8 700,20 C760,32 820,6 880,22 C940,38 1000,14 1060,28 C1120,42 1180,24 1200,34 L1200,74 Z" opacity=".18"/>
+    <path d="M0,74 C80,48 160,56 240,40 C320,24 400,44 480,36 C560,28 640,52 720,42 C800,32 880,54 960,44 C1040,34 1120,56 1200,46 L1200,74 Z" opacity=".38"/>
+    <!-- fern fronds -->
+    <g transform="translate(120,74) scale(1,-1)">
+      <path d="M0,0 Q4,28 2,52 M2,12 Q14,16 20,26 M2,12 Q-10,16 -16,26 M2,26 Q12,30 16,38 M2,26 Q-8,30 -12,38 M2,40 Q9,43 11,49 M2,40 Q-5,43 -7,49" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(1050,74) scale(-1.2,-1.2)">
+      <path d="M0,0 Q4,26 2,46 M2,10 Q13,14 18,23 M2,10 Q-9,14 -14,23 M2,23 Q11,27 14,34 M2,23 Q-7,27 -10,34" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    </g>
+    <!-- kantong semar (pitcher plant) -->
+    <g transform="translate(620,74)">
+      <path d="M0,0 C-2,-14 -3,-26 0,-34 C3,-42 12,-44 15,-37 C18,-30 14,-24 10,-22 C16,-26 22,-22 20,-14 C18,-6 8,-2 0,0 Z" opacity=".85"/>
+      <path d="M15,-37 Q19,-45 26,-44" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </g>
+    <!-- hornbill silhouette gliding -->
+    <g transform="translate(870,20) scale(1.05)">
+      <path d="M0,6 C6,1 14,-2 22,0 C27,1 30,4 36,3 C42,2 47,5 52,4 L46,8 C40,10 34,8 28,10 C20,13 8,12 0,6 Z" opacity=".8"/>
+      <path d="M22,0 C24,-4 30,-6 34,-4 L28,1 Z" opacity=".8"/>
+    </g>
+  </g>
+</svg>
+
+<header>
+  <h1 class="masthead">Kabar <span class="amp">&amp;</span> Rimba</h1>
+  <p class="tagline">Lembaran Hayati Nusantara</p>
+</header>
+<div class="rule">
+  <svg viewBox="0 0 900 18" preserveAspectRatio="none" aria-hidden="true"><path d="M0,9 H380 M520,9 H900" stroke="currentColor" stroke-width="1"/><g fill="currentColor"><path d="M450,2 C458,5 462,9 450,16 C438,9 442,5 450,2 Z"/><circle cx="420" cy="9" r="2"/><circle cx="480" cy="9" r="2"/><path d="M398,9 h10 M492,9 h10" stroke="currentColor" stroke-width="1.4"/></g></svg>
+</div>
+
+<nav id="nav">
+  <button class="on" data-c="all">Semua</button>
+  <button data-c="kekayaan">Kekayaan</button>
+  <button data-c="ancaman">Ancaman</button>
+  <button data-c="konservasi">Konservasi</button>
+</nav>
+
+<main id="list"></main>
+
+<footer>
+  <div class="foot">
+    <svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><path d="M20 36 C20 22 12 16 4 14 C14 12 20 18 20 26 C20 16 26 8 36 8 C30 16 28 26 20 36 Z" fill="currentColor"/></svg>
+    <span>Kabar Rimba — arsip berita flora &amp; fauna Indonesia. Tautan menuju penerbit aslinya.</span>
+    <span>Sketsa 001 · Botanical Editorial</span>
+  </div>
+</footer>
+
+<script>
+const MON=["Jan","Feb","Mar","Apr","Mei","Jun","Jul","Agu","Sep","Okt","Nov","Des"];
+let DATA=[],cat="all";
+const CATLBL={kekayaan:"Kekayaan Hayati",ancaman:"Ancaman",konservasi:"Konservasi"};
+fetch("../sample.json").then(r=>r.json()).then(d=>{DATA=d;render()});
+function fd(iso){const[y,m,dd]=iso.split("-");return`${+dd} ${MON[+m-1]} ${y}`}
+function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function render(){
+  const items=DATA.filter(x=>cat==="all"||x.category===cat);
+  const[lead,...rest]=items;
+  let h="";
+  if(lead){h+=`<div class="lead">
+    <svg class="motif" width="120" height="130" viewBox="0 0 120 130" aria-hidden="true">
+      <path d="M60 120 C60 85 40 68 15 62 C45 56 60 72 60 95 C60 68 78 45 105 42 C88 62 82 92 60 120 Z" fill="currentColor"/>
+      <path d="M60 120 Q58 60 62 20 M62 20 Q70 30 78 33 M62 20 Q52 28 45 30" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </svg>
+    <div><p class="kicker ${lead.category}">${CATLBL[lead.category]}</p>
+    <h2><a href="${lead.link}" target="_blank" rel="noopener">${esc(lead.title)}</a></h2>
+    <p class="byline">${lead.source?`<b>${esc(lead.source)}</b> · `:""}${fd(lead.date)}</p></div></div>`}
+  for(const it of rest){h+=`<article><p class="kicker ${it.category}">${CATLBL[it.category]}</p>
+    <h3><a href="${it.link}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+    <p class="byline">${it.source?`<b>${esc(it.source)}</b> · `:""}${fd(it.date)}</p></article>`}
+  document.getElementById("list").innerHTML=h;
+}
+document.getElementById("nav").addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  document.querySelectorAll("#nav button").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on");cat=b.dataset.c;render();
+});
+</script>
+</body>
+</html>
