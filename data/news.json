@@ -1,5 +1,495 @@
 [
  {
+  "title": "Penyelundupan 101 Burung Dilindungi ke Sri Lanka Digagalkan di Soetta",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXZiMXREcUtfaWFRRWkxWjQ2YWt4LXJjbjlxS082SDVLcTdqOG5URHVEZERSVk1FVGcwU3NjS3dtaG5OWWdLaVdhUk5uLXphaWNJRlJsWm5tTnI3VFdMQUpNZzhDRkZpVlRSUWJYcjMtdHBQM3g0TEhnRnliY3FHb3IyR1RlRnlic0lWdk5VU0d2Z1VFeDg2SFA4OWsyZnNweHpoTUJDMl9DOTdlOEhtck81SGVfbzlSVUhpQ0MzZjFDYTQ3VjFrbTEtdnZaQdIB0wFBVV95cUxPMTVmYjBoblF6cjFqQlU0dlJQUlYtS3ptVFhnaGRlRHRTSC1YZ3ZCZmRhS19scTFKZnctX0tacXVHQXJEMUY0Rmh3RTdXN2pCNFJRdXFDSFZEQUxYalVBWHBpMndnTUhIX0ZkV1BjcGMwQ085T1ZyUUMzMzRocGp4RWc0aEt0b2xrVDBfRTltazZ5bFl1a0hDTldaQVp1OW9mNHNfZkhvb2prZTJDN2pZMU94RnN0T0dUaWM1UVBVc0tHbjRDWGxRNlUxdmpTeW9WS3g4?oc=5",
+  "date": "2026-09-06",
+  "source": "cnnindonesia.com",
+  "category": "konservasi"
+ },
+ {
+  "title": "Menggugat Konservasi Benteng, Mendorong Konservasi Berbasis Rakyat",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOald4TkJKaE55b0p3QlIwYmVXTV9LZUtfQVVYaUFwekxqSW9hUjR5OXhkUEtodlo2SzFkZV90QXRtelFrY05VNXpEbHNsaVVlVkFNQ2p1UC1SYXQ2NHl5ek40MjlLNFB3N0ZzWHlZOUszWUJPUWNzNWdLTVpka0VHNE00WkJMWFRnNE1CMjBEXzM1VUJMazJDX2paOTNTQXRvWmc?oc=5",
+  "date": "2026-09-05",
+  "source": "Mongabay.co.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Regulasi Kehutanan Dinilai Mandul, Hutan Indonesia Terancam Karhutla",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFFPa3FIa0lUUTVFejRPVEhkQlhuUWFjejVFSzJkSDhlaUFjelhnRDFJMGpCUHdXdW1sM0lhMmpxRG9NanJtUldBVGxWZ2w5VE16SWM5RHFva2dvZUJ2QlBScEtvQWxWdnctYzhhcUJBeFE1UlRnbTBxY1VwZVE3U3ctSnN2cmFtTWYyN1dsa0NnS1NmVGRReTZabDNMTjVXd2ZUazJSUTFid24wU250d2530gGyAUFVX3lxTE16b1JkTGRMSjlaaDR0cWhMdEU1SmROQ19Nbjc2SkUyRHM3a0hxZUMyTVBjc0l4M1BrQmlQMjFRTmRGa3haT01NZURxYXphU0pXTVRGbXdOOWRnVkJyZFdDTzk1Y3NuVlBvS3E1V1E4LTQ1U1gzZUZyTGFLYWVfRktYM0dNRHRyRkdFZjVfa0RheDN1T29WVkRNU0VpdG03MGZQMkRwNWNiUmJsdjRfRHFRRkE?oc=5",
+  "date": "2026-09-05",
+  "source": "Suara.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Jual Burung Dilindungi di Medsos, Warga Jayapura Terancam Hukuman 15 Tahun Penjara",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaTZyLTNVbDJlcnNuRkNLWWNMdUp3Z3h6OTg4WVgzakNmbF84VUdCWmJNMGtVd3otdlZxNjBZNzVhMnpybnJLcHZYUWRjOEpqNmlZOUQ0d0pUZ0U5QTJIYXhfUWdoMk1la0pmTXYzYXpNQXYyUWFqWFZ3bXprX2JEX1Jtem92WmJHMVhIUmhYN1ZOR0ZkNHJZRHFscEdhcVZYRHNmMmhYN2Nia0FUVGd1ZG8tNUdBS1p2VHpFeXltdmpvQnc?oc=5",
+  "date": "2026-09-05",
+  "source": "Media Indonesia",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Asap Karhutla Ancam Kehidupan Orangutan, Tak Hanya Habitat dan Kesehatan, Bahkan Kematian",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWm1zVUFXaDVMUWhobHVUYXpiSmhsbVI1MnJEbFl4c2tkc3Z4N1hJNm1YVFZad05KWFhSV3ltWFRPZWJsOVJRdTJ2OHVrUzEwX3oxNkFpSEtLa3Vqc09SUktSSERMS0Jya3phdE93b2RxQmpoODNVTGIxVU1QUUJONzk3Z3pSTFVWYnNCMzdOcnNsVUtkNE1LVUlITVhWMEFHajU1S2lZTjg0N1FZWFBQRGNPVXR0VkhPT3NvMGF2U0FHQl9Z?oc=5",
+  "date": "2026-09-05",
+  "source": "Mongabay.co.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Kebakaran Hutan di Kalimantan: Fakta dan Faktor yang Menyebabkan Terjadinya Kebakaran",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmhzZldpZ0RESjZocklkUU4xank5WXRZN3pIREtFcFNaRW9VUjNkcGR4UVJsXy1KMERnWFVscms3Y21uU1JkMUk5WnlQMGJGXzNqOFFWem02Wm1MYWFWWlhIRUFXdjhZalpvMlliRmctOHdlRXJNcGZIQlJQanF6ZG9NMlFVUVpyNVBlQ1FLWFRzNW1ORGZOUndvaXJDQW12OXRxbXhoOC1YRFlMQXBNVFZmYmRidkJmekE?oc=5",
+  "date": "2026-09-05",
+  "source": "depok pos",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Rekonsiliasi Hukum Adat, Hukum Agama, dan Hukum Negara dalam Pluralisme Hukum di Indonesia",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeE5GY09mM3N1ZFBQV2tsdThsaFRuRy1mUnl2R1FmNWdkRG5WTWtrdEpKS0V1end6N2xERE1nRURyckt4UGtQc0gwOTJhYWZKQXZfM0NUU2I5RlZCLXhPdjd6UW13LU5fRnExLW5BNm8yQmJRY2tlUzZhSmFiVFNIc1hoUDYzektSR19sZTVCV0xaVnVBQzhWZFg3MGhfOXctdnFjelZDcm43S2ZleDVrdk92UVFnU3FVeGYwSUJKaWlORUVkS1Nr0gHHAUFVX3lxTE4tZ0JOZWxWYnVTYmRmYWt5b0taTWhmMS03NWFyTmdQOXpIVjlrOERGTlR0TXBIQ1VSSDhCeHRrTzVVenlEUG82VS1xaXQ5SkdCZ29YLTMzeXFxZ2kwaDRHcGlBTzU2MmUxRUtFdUNtNlNBbkVNV1A5Tk9IVkxRSTNqanpCU2EwVUdHQUhXUDBnakJBX1FLb1oxMVdqUDFKOVBydld6Y19mclltUFlvbFpUaUd3T1FuYndsRlpIeXFYWGJHaEhOZjA?oc=5",
+  "date": "2026-09-05",
+  "source": "harianSIB.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Karhutla Taman Nasional Way Kambas Ancam Habitat Satwa Dilindungi",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRERkc1pXRGJvY3EyNWFIWGJOYnA3ekNHS1c5Q0pGaUZJdnR2VDFtclA2RWVpQ1V6eHR2eUxGdXY5dlEtTWk4aEp4a21XZU9jRTZUN3NRWF9PaXpac3ppNWs4dGhkSUVON1Y2MkhtVkdZVE9qZHNkMXhDeFpTQUJFbmx3Nmx2SlFEcHdmalB2aGt1SmNHSUxiZ3M0ajZHeURHcFNiazkxNmNhdTZJMWhKM1oxT1pZdw?oc=5",
+  "date": "2026-09-05",
+  "source": "RRI.co.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Renorpa Kaimana Dorong Sasi Modern sebagai Solusi Persoalan Sampah",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWRveDRJNUMtTWpSVjNDbXRmaGhmYlhuZ3RreTQwNzJwakdWVUY3bW5oQm10VHBlcGdnRld2UVpDSEE4VWkycXJ6RTAyM2NHcWlDWHhzbER5dnFIblRWc1RzMmFXNC0zdjhwLTB6M01FSm0yRGlud3AzaUUxNm1sUGpRSkRtM3dxYnA2M1JQaGRSVElwN2ZxVnk3TWo0akFTQ2g2VElzR0VPdTBrRk9YNGh4WQ?oc=5",
+  "date": "2026-09-05",
+  "source": "klikpapua",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Arsip Bumi yang Terbakar: Karhutla Merenggut Jejak Evolusi dan Informasi Genetik yang Belum Sempat Dikenal - Insiden 24",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTy0yQVZIQjM0QzNHaTVwemkzYnlaTVFpRUMxem1MRHpTcUI1aTdOd2tSQ2pDQW5lTEVTTS02WVVXX1VPSHJOeExTYlJqdTdNZTdlNElYQ0dfYUo2UkcwVkFKaWtqN3htMUpyclY5YXpqNG12TF9QQmlNaEtDZENTWFU2Wmx1RGpfTVcwcFFzZk1jQzkzN0dFR3ZCUUhNTUJVV2FhWEpJaUx0dEhlT3hCSDZMRGEwd2F4QXlDbUpUQW1EREgwMEJFeUJSTmtjU2NJSERubTZUeE0wUGtmSXNtMkF0WdIB6AFBVV95cUxPWllnTHNKOE9ia0RsazY2aVpHRTc1NkdsRVpqNXp6OFN0YVFKNnlqWWt4LUVTSXlNU0p0MU45Ny1QVkNUVW8xcnpFczF5bGpxTG85Mmx3c3lKUUZFNWI0bXNWNEhLUk90M0VKcHFZcFd1akJqTmNYbTNFU0lkcUZLVmJLMHpuelk3QUJZelVuVW1mUm1KelZqUE5zLXIzNXdQSWdqY2pWbUxhZFNxYnhqSTAtanBOWjg5Q01GVGZTQ09WVV9JSDViUkZJZkhFSVZuY0hHZXJ5cTVsY252UHAwSUhFQ2JsMVBi?oc=5",
+  "date": "2026-09-05",
+  "source": "Insiden 24",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Spathodea, Spesies “Alien” Menginvasi TN Babul di Maros, Habitat Macaca Maura Terancam",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUJQTTNxSnh0c1YxdkUzcV93alJSVXlFZ0pMYlpnRlExZXoyeTY1bDRVaTh1anNMVk5RbjU3MnlSdlI1VnVzTko1YmtnSFg3T01GWjk4QmJPdGVndVpTQ05zbjM2ODN2TDZrV2UyNVpWZVNOTnR2Z2FfbjNCNUJlMEFTaGxjbTZlM1VhYVdmcUxpdzRkWjdNcDdkLTJsUzJ6Mkx5cUo2ZnJoWk01SUt5WFJDdlZETl9s?oc=5",
+  "date": "2026-09-05",
+  "source": "kilas sulawesi",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Rangkuman Materi TKA Biologi SMA: Kisi-Kisi, Kompetensi, dan Materi Keanekaragaman Hayati - Pojok Satu",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM19zWW92V1Nqdy1hbDd1V1NhaGdnbVZyWW8zRFowNTVWZk9KVVFhUk1lY1c0X2liaF9xcVJhVllyTmtSMUhQSUlpY0FJbkIwcExmdEtxR0dyZXVrRGpkTGdYMWJfbG1renowNi03cFYxcTlHMUJCN2RZRjJ6R3lHN05jZS1vbmt5aThpcjhDaHZMX3hpWDZmNWlrVDR3S2J4MXdzeGQtUUtSUXRIYmh2dHhXMFU2MU9kQzBYeHhEUWhHRlZxaGlaQ9IBzgFBVV95cUxNa2p2MlZweDg2Wm1PVWo1dmJHZlQzZXBhU1VLQWhUMzF1T2FNakotc1h5V2N6YzVSQjQwYUQwOHk5cXdZTVM4eXhhYlB3VlpTSzFkSzc4ejNKbHhiNkVNQjMzTkJMdVdTT0pkWFRRUDhULXh0WWFadW5vdjY4SkxIYmdFcThWRGlFVXJ4SGhOQ0tJWGwzaW1EREstOEVsSVZLcHdqRmFxOHRtT0tJX0VPd2J0VDRhM1h5OTEwaXF2VkVYa2d5WmVleWxqSmxqQQ?oc=5",
+  "date": "2026-09-05",
+  "source": "Pojoksatu.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Ilmuwan Temukan 149 Spesies Baru dan 1.000 Gigi Hiu di Dekat Indonesia, Cek!",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG80VGpVMC1fYmw2QWlXOVJqaGFRYWlrQVNUcjlEdHk1MHdTazNLUThRSHFrSGFxcHdmUXhHOHEwdU41RkhVOXZoRlhXNEZ4akxRckNYYmx4Q0lfQlJ5bS1hR2ctNExya3VSSHNEZ2tiSWhQRmYwT1NMbndET2tSVEgtSFpBZXlET2MyNWdSQy1qcVZMLUFNWXZ4UlVkV0x5NmQ0cy1zU1lMb0dCVWJjQ0tPZ1NCWFhSbTJLQzhn0gHDAUFVX3lxTFBHN3ZYeHN5MXJjS0lILUhqVlVtYkNnNm84TlJWRHhqMExTQkJxaWNGYXlrbDRqVVFGS0VTR25jRXdOR0VSQ3JLY1BMbjJrY09sdndNaURjUk9ucXFrZWtTb1MyakVtWWdpNXdwbU1ORXBwTE45MXF2YVNjTnFRWHBvRUlpcVpodkRyVzZTZjlPcUNJZm5nb21yM1NsUzJDa1dQU3NSSHJhV09vWDJIaVlESElyMFhCVk9xZTN5RGNOUGFkaw?oc=5",
+  "date": "2026-09-05",
+  "source": "detikcom",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Penemuan 149 Spesies Baru dan Ribuan Fosil Hiu di Samudera Hindia",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yRVkwUmZROXhZb1FmbVlqQ0hyY1RzM3JaWUw0QWdISk4yZTZFUk01T1FYTVFQTzE4eVphcllERThPTWNvMks5cV9wNjZZNUxFaEh3Vk1mMUZBY29WbmZla0VRXzB3cmJvRWk5UVZGVV9QWlJrT01VQ3VLelFfdw?oc=5",
+  "date": "2026-09-05",
+  "source": "SuaraGarut.ID",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Peneliti Temukan 149 Spesies Baru dan Ribuan Fosil di Samudera Hindia",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BQ3k4ajdSTWZ1UzkyTVJUYjhtQllDa3Y2VElXaW92Y0lPbmhvQW5CY29ucno4eFZRcjhaNERpSWl6cG5KREVqanBvWi1qWUVPTFYwM1ZpRjRVVzJWdWtDV1d6UXJfb2ZPOFlkSzdfRkd6MmNPaUZB?oc=5",
+  "date": "2026-09-05",
+  "source": "pdiperjuanganbali.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Rekomendasi Seru Berakhir Pekan di Jakarta, Ada Pameran Flora Fauna hingga Permainan Tradisional di Setu Babakan",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNczMxSTkzaFdZem0wYTA2cGZPZk5rSlBBQ2lFbHp0anFYNXV4ZnNnYkNNcldsOTNqcG1NUkNEUmFkc3dkVDZJTGVuZ1dSX1B6WlFaRzhGM1gwcVU3Qm5VNjVTalFiZjVtZG5oTUVzZlRFTEtRS0pOb1pZM1VXXzNqLVpVN1N1MTNWVGpieWNRVDdaMGJNWmd5RzB2UmwwTGpoSTNPUlZnczNmcFdkT0hxcmtJOWUzcEJfV0JxR2trZFg5RW1VcVpFUjFKcmxsY0FmTlhqdUQ3MEFUZWpUdGdHZEpvcUJkUzZ3U1dj0gHnAUFVX3lxTE1QeVhudDBsVmV4Q1Y3YktOMDl2M1VfR2hBM2dUeVJwU01BY3JLeGJTa1lETDVoQ28zeVI1YnRYVmdpdGF1RmlXRGJlbEpiRXBLLWRoa1M5alNVcHUwNUJBMjdlUDVJUlV5RWFZNkY2RGdCVVBPRnZ6ci1yeDdMd21oRWV6OS1ySVg3Q01jX1p5YlE1aGZ5c001bTNSXzJFaWM0TWZOREp5a1E5R2VrMV90ZlpHWl91eEZNNy1xd21fNmR0V3p5U2RQbmM0UGlSVmhKaWwtQ2FHbERqejBKckxfNXJpUndTZw?oc=5",
+  "date": "2026-09-05",
+  "source": "Koran Jakarta ®",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Tingkatkan Kapasitas Kelola Jenis Asing Invasif, Kementerian Kehutanan Gelar Workshop Proyek SMIAS di Makassar",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEg2N0VWeFA0Y1B2YWtwYkZ0ZTNXWGNoeXV2ZjNfMnFVTGRQSDJLMXBoU3hyNUk5elVyUFEwWHYtcEpNUUk5U1VUa0VjTTZudVRjaUJrMndLTExuWkZSV004ZnBiRmg5Y1ZwQ0kxOHdDZng1QzV6bTFKMVp6MDUyc2tKeUU0QQ?oc=5",
+  "date": "2026-09-05",
+  "source": "RAKYATSATU.COM",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Asap Karhutla Ancam Satwa, Pemerintah Perkuat Satgas Penyelamatan Satwa Liar",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGdZWlNyWFNWenIteTY0azlfTjgzY1l5NzNrR0RncGhUSXRDcXdOM0o0TWhOOXJocjZzNkhFbC1NSVZPRk5SVHV1SDQ1SzNXNXg2QzZOVjFsNkdYajJubkcyNGZiMWhoQ09iMHlhYkR5blJ6ZzhzUDJ0TVlzOTJwdHFibHVvdGxENDFDbFdtMnF5ZDg2N1F2dkpfSldCUFRmS3ZVVTlKV29MUUhlNnhpbkJwLUE4S095R2RtdEQxU1BpUmdPa0VZ?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompas.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Ancaman Hilangnya Satwa Dan Habitat Di Balik Karhutla",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORzBoMnNfVjYwcFdvSnctampIOXVzc3ZsZE5PR0EwWWpPNVRFSVl1aUR1VFJnODZ3SHlMTWF4bmhTSWhCWlJRamxRWHlLaFZBRlIydlRlYmRTNTl5Q3RWdlZ3d044UFVlU3B5eUxlVVZ6Z3pMR2x4NjdzTnpIc0dWM00wdi03TnNzV3NmQmRyd3FBZThsSEpwN3N2VUltRktzUzZHVzln?oc=5",
+  "date": "2026-09-05",
+  "source": "Validnews",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Kemenhut perkuat call center penyelamatan satwa terdampak karhutla",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjI5UlgtMnBjMG5aaTVCbjRKN2REVHlfT1dJNEZLMmNBVHgydjRmNkRXNlplcGxBVmdsb3lTMXV0ZW9oZXkyWmk1Z1Y4dTZsSlVhSFFVTGt2YThHMXo4NXExZkYzSW5tbG1fOUh0dUxxNXpsZEIyX0h6V1JQYjVoSXA5VGgtSFp3VUpfQUxxS2J3UlUtZEhPWE12T0VTVjFjRDdhQ3JjMkFZSTVM0gGvAUFVX3lxTE96a3hLTkJPSkJaLXFsUmpiQmtjRGFhdzE1ZUZwb2x3N3BvYnF6cEdRNVIzemUySnNNak5lc0thOHBUS0RRTHVMMjE0d0FyOTRnTjJyQTBqTUxObDFKS2lSMFROQkl3Ujl0b2g0aXZ5RUZPZFZBUnA1V0pzTnE5M3FlSEJwd3dlRWVaaWUwT2EtRzZWeWRRN3ZPZXd1OE5WUmJTMjZQSDNuYmx0Z2VWTW8?oc=5",
+  "date": "2026-09-05",
+  "source": "ANTARA News",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Kronologi Pedagang Mi Pelaku COD Burung Ditangkap Malam-Malam",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXkxRnJOeGJ0ZjcyTTRtQkUzQXRsbGxyUXVKeVdCR2tZemQ5eHVNSlptRFZJX1ZyVjBFcldZN2toTUFoWjVrTEF3ZURXTHdDUmZkR1BoQ0Q3Wk93bnNpRlVMTjA3ZnltYlE0Zi1Gb0F5b2JGajFJdE93SHYyYUZ6Tk1teTR4OFIyQ1dUWVFOQ1EyUXl0RU9vZE1vNE5rUEU3UVNBd01pRm5PcnhWeDNwOXdwdmNETk00Z2RTSFE5WmVORnPSAcMBQVVfeXFMTy15MUZyTnhidGY3Mk00bUJFM0F0bGxsclF1SnlXQkdrWXpkOXh1TUpabURWSV9WclYwRXJXWTdraE1BaFo1a0xBd2VEV0x3Q1JmZEdQaENEN1pPd25zaUZVTE4wN2Z5bWJRNGYtRm9BeW9iRmoxSXRPd0h2MmFGek5NbXk0eDhSMkNXVFlRTkNRMlF5dEVPb2RNbzROa1BFN1FTQXdNaUZuT3J4VngzcDl3cHZjRE5NNGdkU0hROVplTkZz?oc=5",
+  "date": "2026-09-05",
+  "source": "CNBC Indonesia",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Indonesia Klaim Selalu Penuhi Kewajiban Laporan Kabut Asap Karhutla ke ASEAN",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUZfUmRkc1gyblZ1Z1FaaFZZLWRKRTBodkUzbGNaUmFXLVJvRGhVM0dzYlc0b2toU3dUWnBzaWNnel95cDlmY3dwRktfY0VKTldINWJYem5nWFFaZnN4bHFWRmJZQWlrWjJMdlBKcERaWGVyUWxkdUs0dmRRQkstRFVuREx4Y0dNMWhHM1A1QWE3dDFxamx1QVFfaktneHhIRUMwN2pUT0dVb1JiRlVkRlNLekRxZkl4bzBLeVFGX1o0Skh4dVFXdw?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompas.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Kecam Pengrusakan Lingkungan, Tim Penyuluh Mabes TNI Tinjau Lokasi Karhutla di Tasik Serai - Bengkalis",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTEFYa29PRUtrcFl2d3Q0VC05V2VNcFBvUnMzSC1ib2dTTmxhMFJGczEwS29wNDlwMVFRbnVqYUR2dVB5XzdkZk1mc0hnM0h3c29rUVNXQVhFUUFqQ21UeV9ldzlGaEF6cUhtT1p5X0xGUmlFU3pGY1NxV0JfNE51YjJITmdYQzFyRy0tOEdRN29NWHhacVMyYVhkcHR0UkVocHJDM1VJb2tETm1ZZGtqRVlQT1J2WEpwd2YzLXhPTXY?oc=5",
+  "date": "2026-09-05",
+  "source": "centralnews.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "BNPB Maksimalkan OMC untuk Atasi Asap Karhutla di Kalbar",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS1czOFptY25fQ0pQMll6SS1uS2lGaUFwV0dzbHlVRnYxaTBqcTNGMDRscnhfdjBnQ3huRXRMYmJvVUtPTjJOUTNITS0yYUw3UG0zemJQQ0tYWkFMYVdpVnhHbEkyMGRiQzNPdFFNU1l2bFVLNVF2NHNneHM3b2IyWWR5R09uczh2Y0FSQ1lvNzR2VmpuOHhXT19hU0VKczJIeUE?oc=5",
+  "date": "2026-09-05",
+  "source": "Media Indonesia",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Krisis Keamanan Lain di Kalimantan, Satwa Kehilangan Rumah Terakhirnya",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ252MDFkcjFmU1p5aG1TeWdRWlRtSnBCVjVhcWY4UHlta1YzT1NESnp1VEJnaHdxczBVNTdhZk5wMlJqTmVPZ0p4Q3BoQndGbHNBd3VueHBDWHRWeExIcmxFVGw1WHdYdDd4cTQtRC1qYUVhTmZEZVByaXd2YU4xZnl5UHBxRmxQQkk0eDE0VkRCdXZCZWVacnV3cXhVeExmNmNTYmtkdnZUVUd5aXloX1o2VW1URE9yVjhPQjhKMA?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompas.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Guru Besar UGM Peringatkan Dampak Karhutla: Orangutan Kehilangan Habitat hingga Terancam Mati",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDVXRFAzc25OYXBRTmRwME9WTC1pMlJlX2g2RzdfZjZFa2tRX0xuR1p0VUwzOUluZmxzUzJ0aVlVRHNkTVFMQnFEX05mY0ZSb09naGpFa2pvd044Vml1ODRybnR4RXRBNnZFU1JIaXJ3dUdpUVdkbGVrRFludXN3UG4zd1lGYUlCVXRVd050Q1AxQVJMVmdOSHJFNTNmQ1R5Z3MyaDV1ZlFMQkkzZW1mYzRkQjRkeHR3WjNBMWt1SlBRb0dv0gHEAUFVX3lxTE41RVRSaERMbjI0eDZxZVBfeFZnbTYzN3hYS1ZMVHJaVWdpbTduXy1GWGtMbGZiOG9yNHpwNEpxRm1SbDdDS3M0THprUHFITGhZdW5kMjFuUTNOQng1LUViRENYZGNpZmk2WnRPc0NHazU3NmpOb1NpWXBldldOQmRsTk9Yd0Y5bVA2U1A2MHNZaTlCd082TUF0eHRPRGlOeENfX3NCbnc0U3VpbzRGLTRiM0Y1aXVzMjVSVGEyUk1QV25XM08?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompas.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Berapa Biaya Adopsi Orangutan? Viral Dipopulerkan Amanda Zahra Hingga Gading Marten Sejak Karhutla - Kilat",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDJUaGRTdlVQQk4tM29LdjJZQ20tUEdrQUtybzgzTmp3N0RqaEdTcWZXTUhUMWp4MWcyZ0JsVVBQdC1uR1hKVnpoc09CQmJLa1k2dGJ3SmhYR0VhZGNGdzRQRTM5QnkwQVBpWklielVxdnJTRTBwWUd3QlZEYS1WLWRPb01xSzZVUm5zYXViMXpqbXZfVF9Xa2cycm95OEVXeF80ejU3dWlvamswcnJ2eHlocEtiSjhDX0xJRXNQYk00X0daOVMxa1h5QzFYWUVGTExXUnBlVdIB3AFBVV95cUxPTkh6eHBfN28yWnVQNjlMcG54SlpnR2pDMDBZTlY4dmZDMUhueWhkbmk0SlJUandHUHpONWFUdFdBQlhBQnExZ1d4cTdfMVVkRGpvWmpndmNOVVlZUVZmZzAyaE1wMmEzMF9WU1RRODBna0M3MmxGNFBnQmU2cFc0MVZtWU9sSHRza0lrQzZYZXZiZ0JXYWhBRklTTEtLYW5FV2RmdDc1aUMzTEI0anI1eHpBTzlNYzNqUzVYMlRLQ2JsTVlHN3FHVkVLcDYwUlZtV2UxdVJERnBXNVdx?oc=5",
+  "date": "2026-09-05",
+  "source": "Kilat",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Dua Tempat di Indonesia Masuk 10 Besar Wisata Satwa Liar Terbaik di Dunia",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkQ5YUJzZWZsX3Z5a1ZvN2pubkZaVjJnUkY0V3lyMF9qS2E5d2VWb0NwTzdkSzhmWVNQZmVSOVE0cjRObjdLWHgxY1IzVmxyU1lvdENJd3g1OVJkTEw5YUFZUm94Wl9BRFNBVDJHU1kwalpOTzg5Sng2eFVGdjk5QWRRcUw2VHlTVXowWjMxcWhiZzczNGZiXzQ0VWdHVzVtRGV2VVBfRG5LNHVBLVlSc3d3cUZyaFpwSGxVUmJQeXFZcE9nVnVfOUs1MHRZd9IB0wFBVV95cUxNTlNRZTZKYm5QWE9sQjEydHhJZUtlUHFRSFRsMnkxSFhVaERMT0ZER3hhUEFwUXM2WkQ5OHdFajkyVlZVLXFfR2dkdkRlbVB4a2VYQ0ZjcWhHc0R1V05oU051ekZtSUczaWdWQnRua0FUcnVhNElOZVA5aEgzVDB3UjlSQ3BuU1FRU3VKUmNTR3pFZC0xcFRQaWU2UDZzcE1hM1dZN3MwbWt3TFpUX25OLWlFLXhaQ3dDNUZERkZFZ2M2aXpnWjNlb19FOHBwUWlRWVNj?oc=5",
+  "date": "2026-09-05",
+  "source": "Haibunda",
+  "category": "ancaman"
+ },
+ {
+  "title": "Ketahanan Pangan Indonesia: Jangan Hanya Mengejar Produksi",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEJveVFncHd0RzZ3enBmUWMtV3YzalBoSlRqUUV3TEJQTVpCQ2NodHBDdU9TMWd2T1ZEU282YWhxczNmejNIS01DdGhlanc3eFVTUURIak9Ed3czSXUwSUhTSDdHOHp2U0lqUlI4OFlaU3FJNDByRTJCTkJ3a1RodXNQS1dCa2N6U2dxcy0tSU15Zw?oc=5",
+  "date": "2026-09-05",
+  "source": "Papua60Detik",
+  "category": "ancaman"
+ },
+ {
+  "title": "Koalisi Minta Sidang Kasus Perburuan Gajah Pelalawan Transparan dan Bongkar Jaringan Perdagangan",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFJFWC1kdzE1UGNoZjNmdC12eEZtYXRNTjNsQ3dKaENkb2NZT1Z6UWoyenFnYk9TV3NsYmtfTjZ6dzJ6Ul9rLXZGbUNXT1pydnd6Zk9lSE94bnd0Qlh3bnA5YUxrUzVVcGx4OUJ3TFdxVUJEMEpzdDNOTHRBbXRoaFJSblZvUWNmel9oQ2NURHpXNDhQN2hrWTVZdlBuUGVCYkdkX1dtWktKY3Vvd0c3bHUzbU0yNmtSNi0wX2tpZ0JJUnlyVnVzS2VmOUU5dzY0LTNmMjhCZnowUUVpUFVfOXhnWjY?oc=5",
+  "date": "2026-09-05",
+  "source": "HALLORIAU.COM",
+  "category": "ancaman"
+ },
+ {
+  "title": "Desa Mendolo, Kampung Ramah Satwa di Pekalongan yang Memilih Menjaga Macan Tutul Jawa - Selingkar Wilis",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT0JObXBFOEVWT2tBY0VzRnpnUHFTcnVlbU9sNEluUnJFdXBhbXVJX1FEeGlla0xqWDllV1UzaVBhUUFnZWJ6dEhyZHlsb081cXcxOHpqdlU0RHBVXzk0STJSM2RieDBtV3VmLVZmVHFJYkctTEhkOS1GNHBiUWxmUWlJQ0FUVWxHUDQxMDIxNHVFc0syM1dDYTJ5RlJia1hCV3p3c0hySkRMY3owZGpmZVhuUUd0WWh5T1VxSFpvQ2ZiNXBuUXFNVktoQjg4cVI4M3AzVTllMNIB1wFBVV95cUxQT0JObXBFOEVWT2tBY0VzRnpnUHFTcnVlbU9sNEluUnJFdXBhbXVJX1FEeGlla0xqWDllV1UzaVBhUUFnZWJ6dEhyZHlsb081cXcxOHpqdlU0RHBVXzk0STJSM2RieDBtV3VmLVZmVHFJYkctTEhkOS1GNHBiUWxmUWlJQ0FUVWxHUDQxMDIxNHVFc0syM1dDYTJ5RlJia1hCV3p3c0hySkRMY3owZGpmZVhuUUd0WWh5T1VxSFpvQ2ZiNXBuUXFNVktoQjg4cVI4M3AzVTllMA?oc=5",
+  "date": "2026-09-05",
+  "source": "Selingkar Wilis",
+  "category": "ancaman"
+ },
+ {
+  "title": "Bagaimana Karhutla Mengancam Orangutan dan Habitatnya?",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnJWaGxWVjM2ZUFweUxGcGxWcWJ1cjJXZ3B3T2ZFSmhFTi1VUXNNd21YZllxYXVZMjRKQUFkc0loOEluVlJSV3dBRGJjYnJBM2xMd2tVTlMyUU1SMXhpYzUwaXpIeW93eXoxcDNQVzVYNDBkVmpFUTFHVE90eEZrcW9RU1hSZG9pX2t3?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompas.id",
+  "category": "ancaman"
+ },
+ {
+  "title": "Asap Pekat Persulit Proses Evakuasi Satwa Liar di Kawasan Karhutla di Kalimantan",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem5FNDhYVC1CQzVMNUZFeExYUTZiRzlxMnJFVmsya0M2WHpYcmlNUktPRzVDTnREcmpEcEtoNmw0azJPSWlVQnJpQWV5Z2wxRzFUSWtFQ1dnMEdCNHhvSFB2SmcyQUNUZU9ZeTZGVlhqUkVGaEhzWFJWZFFKRkl1LXhHZkVrODZfb1RGVnJfenB2T09TNXpfZ05oYTdtNzlYSzRGeGU4S01QZnFEZVlaUFdtZVpBbjTSAbcBQVVfeXFMUHpuRTQ4WFQtQkM1TDVGRXhMWFE2Ykc5cTJyRVZrMmtDNlh6WHJpTVJLT0c1Q050RHJqRHBLaDZsNGsyT0lpVUJyaUFleWdsMUcxVElrRUNXZzBHQjR4b0hQdkpnMkFDVGVPWXk2RlZYalJFRmhIc1hSVmRRSkZJdS14R2ZFazg2X29URlZyX3pwdk9PUzV6X2dOaGE3bTc5WEs0RnhlOEtNUGZxRGVZWlBXbWVaQW40?oc=5",
+  "date": "2026-09-05",
+  "source": "merahputih.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Orangutan Sampurna Mati Terpapar Asap Karhutla Bukti Kebakaran Hutan Ancam Satwa Liar",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMVdQZUVVT2g5c1NkM3Z0Z21kWEVhZVdrS3ZrRGRpaGhZbHF2NUFUVjZCZkR0SkRNQzZPeGRPeFdPRk80UGpkZ3l3T01Sb1lwU0k1Q1Q5UnZPVVVRcWlIZ2Z1RWVDZnR2d1QwYUFmanRZQzZqVE1HSmZGLUc2Q0hKNlZlYlFoeUJjQXNFQjFPQU1tYU1acGtFNnhUVXJKb20xODNIX3dTV09JaWp4TkFjNUtDNkFyeWdTNV83QzNyZkJ1NmRxNDVGSnV5Ui1vek96RzJzUdIB0wFBVV95cUxQY0dmSmd2OC1HVVhVZkxWUjFEcmpSemcyZVA2aG45dEwwaC1PTTRITVJxa25zTm0zTmpqd1FONzhNNWFCdEpqeEZFVFd6Z0JvOUV6b3NiWXFkVnNobkRGR3U4Q2tSR3YyTnJiNkVQaUhraHQteWs3RUxzVXdKNi1BbmZFVE5OZTJRUzUxNG1meHhvMkpXajlfSHVGYktHZ3hnNG5aS29lR0wxWFQ2T0d6MHp2U256VFV3RDhrMkNFY2N5ak1yaDlxRGV5bUd1bkIxVmc4?oc=5",
+  "date": "2026-09-05",
+  "source": "news.okezone.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Kematian Orang Utan Sampurna, Dokter Hewan Ingatkan Pentingnya Pendekatan One Health",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUFA3SHFPbE9oVzJGMnFEWS1kVVByaW1lRUJ0aDlTaTB0ci1LSVdQT29tS0o1OUEtLWZZeTJud0JLenFWTi16d2JRblVsWEJJbTFlN0JQUFExZmF1QlRQQ0s3bzhlWE1JQWJFaHdPdmY5RlJEcjg1WU8wd1dZVi1QWGJQdzhwSDhwV0pfNWR4QzBwaHFWakRPUVBWa2FBS2pINTl4YlBpMmFIWGxkczU0eG9iWXR0V3VHaThJb0Q0RzNDU0U?oc=5",
+  "date": "2026-09-05",
+  "source": "MetroTVNews.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Firman Soebagyo Dorong Penguatan Deteksi Dini pada Kebakaran Hutan Way Kambas",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0dmUWEwUjd2NHFSc2JESE5oa09nWGFDMlM5aE5HNGxzVll5NUlzQjdlc1g5Qm9oYzQ2NDc5ejZsb3pfTVd2eVdWcHRjN2RyQ0o2X0NNckpiMFdsNDNXa19PdERaWFR1LTk2TWIzb1h6RURsS1luU0xRVjA5WkpVVHhCZjZFX1FRZjlSdXpiNWZEbWlsSVZLbEdNSnZXSVVWcXhQUGxfS1JWdHVBTEJIblU1bmdLNWIt?oc=5",
+  "date": "2026-09-05",
+  "source": "Tempo.co",
+  "category": "ancaman"
+ },
+ {
+  "title": "Satgas Penyelamatan Satwa Liar Kalteng Diperkuat untuk Hadapi Dampak Karhutla",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlVDZVZpU2lwdXczUWd6eE1zVGViYm1fWUtlMnlMaFNzYWgyUE1lQXQ5Z0ItZjduaERJUG5kbjh1bi1GTmMxM2dyMlduc3VxMFdCNkNyR1hjU1hfMlZ6MUswcmttTVc2SVR4TzdEQXFkb1hHY2d3ODlOS2gyMUdwcmVtRVNKRkZpWU95cjVCR2ktdkVFZlBWRVViVy1WNFkwWWtBaFFYQ1I5MzdIU1pyaXpDcjNEX0pockljZFVR?oc=5",
+  "date": "2026-09-05",
+  "source": "mediaindonesia.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Call Center Rescue 24 Jam Disiapkan untuk Tangani Satwa Liar Terdampak Karhutla",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW5ySTJFaUlWTXpKbDBDb2NUYkxzSDRwX0pMbkY3V2lmRWZpeUUxQ19xSlJacEFhNEctNWhDbFJLQVllRDVLS2pRYVZCTGgtcm1CUENxajZwbTNqdVFOZ2E4R1ljV2hPRFpFMDRoREZ3TXltaWpZaFRhbkFKRjlMOGktZUNEVFhLOS11VUhUMFJjYjJTcHVBaUhkYnhuYWN1cEM4ek5zRzlXUExrSkp6ZFFlUWF2VmlqeHo3bGZFVjI?oc=5",
+  "date": "2026-09-05",
+  "source": "mediaindonesia.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Satwa Liar Terancam Dampak Karhutla, Kemenhut Perkuat Satgas Penyelamatan",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1RJNXJ2cVlXV3VxUG56MjhQLXBrbHRtTTRkYmZILWdZREhyVC1QSXlfUm9ZMTdZcFNPdWJLUDQyUzlaelg4c0lycFVtemhMNG1FcXF5MjF5cG1GSDdFUExFWG5PTlpFNENydHlPREJfMmdmMnRuR0RNTWN0QmNOMFpBbm9kVHRIMkFaT3lKT2diWWRud2RtZzZTZmRqTGltRUdpVUlyaU1YcVBldGswQVpES1RXdmM?oc=5",
+  "date": "2026-09-05",
+  "source": "indonesiainfo.id",
+  "category": "ancaman"
+ },
+ {
+  "title": "Karhutla Ketapang Kepung Habitat, Induk dan Anak Orangutan Dievakuasi",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGhkX216R3JVZU1CczJnT181cGVBVzEycGVpSktJby16UnZZQjRpd1RibXliWFRUWjBWUjNQbWxNdFBGUnB0MUhhSk1MWVZ6ajlPcTh6QkJfcGZ1aHJjb2I0eXdaUmhKdFBLUG05c00tTzhEV1kyc2RLSWI3RkVubWpnZWc4ZXN0WUxPTDJrWEViRU02VUF0cEtJeUVCdHhLc0dUdk54bjVTeU1BTDlTRQ?oc=5",
+  "date": "2026-09-05",
+  "source": "EKSPOSKALTIM",
+  "category": "ancaman"
+ },
+ {
+  "title": "Oh Sempurna! Orang utan mati akibat asap Karhutla, DPR minta Kemenhut beri sanksi tegas",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVFNUUWl1d0Q5eUlWOTJQN2NkYnZQQjVDWnVHdFhGNW40em44cmlDbV9aN3NmYWZnWlFUY3BJUXIwZ1FQcVFTM19VQ09aR3RQOE5ySGxZT201NXJ6VzZKOVJ1YnAxdDZqcEcwbmx4c24wZ0tDMjhuM0RNd3I5U2hvdHY5R0lVVkVwVEo3d21CNzJwMmpiTHZyNV9FdzZxUGVwdVdHc0xlOFQxMlVza1R6M3Y3bGRmUnV6?oc=5",
+  "date": "2026-09-05",
+  "source": "lensaindonesia",
+  "category": "ancaman"
+ },
+ {
+  "title": "Karhutla Ketapang Ancam Habitat Orangutan, Sembilan Satwa Diselamatkan dalam Sebulan",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWg3MklJTUg3Qk1BN2d6V0wzYmlpSjR1MElsMmc5UUo0MEVzMDNnSVh4TlUzVG9MZEI2WXJfS1pPRHZCVktPQkNQb29ieWJFZ09EVi15dndOdE5saFIwTEJsQl9QTV8xNUIzUXZsQ2JBUmtRQzNJQ3liWEtLbjFQZDh1TWVFY2loSVhyVWMyN3JUWHpYaXQ4TUZtbHBjUjdHTE4wMHA1Sk84T1phNDFvdDNYNjhpOEVEMzh5amNjU0pIMzh5eUxXWWt2RDdIbkEwa0cw0gHYAUFVX3lxTE9BTkpZeC1kYzdjRGVjWVZhQ0d5OU5nMHE5aGI1ei1sMXdnRXhjZVZqMWhpX1RXeVcwZVFZLUpac21ndGlsblJyMWJsbEVOMHJwNVFwYzg3Zm9UWS1aVXdHVHRLVlRUQWczM19OTHRmZndFeWVxX3Z1YWJZZlo3cWlGZmRwVGlCZ0p0OWtvR1VzeUcyR1BTNERnd3ZpOENGQUxaQzhXMml6b3BVcU5QUDhBSXN0VEJsbUhqZTZvUm5taWhCcDNhVXd5azlFWXVNQUdiRUhmQThUWA?oc=5",
+  "date": "2026-09-05",
+  "source": "Pontianak Post",
+  "category": "ancaman"
+ },
+ {
+  "title": "BKSDA dan YIARI kembali evakuasi Orangutan akibat asap Karhutla",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDA3Z0h2cE13RG1HdnJvOHRIVGRVZElycGZ1aGtIM1I5MndEMExyNEQwU1hzcW5RaDAzY2hPeFVERmJDM0dkMkwwdlRqNFdPZm4wR0tUODlnaW9KR2ZwcXk1Xy1mQndfQUtxRXBfVXRTVkNWd1pwRnZqNy1HeS15b19DMW5XOUhnQjF4LWRWcl9BSUVsQ0pJOUZESUtXczN4THRXQnBzX0Y3bUnSAasBQVVfeXFMUGgwN2dIdnBNd0RtR3Zybzh0SFRkVWRJcnBmdWhrSDNSOTJ3RDBMcjREMFNYc3FuUWgwM2NoT3hVREZiQzNHZDJMMHZUajRXT2ZuMEdLVDg5Z2lvSkdmcHF5NV8tZkJ3X0FLcUVwX1V0U1ZDVndacEZ2ajctR3kteW9fQzFuVzlIZ0IxeC1kVnJfQUlFbENKSTlGRElLV3MzeEx0V0Jwc19GN21J?oc=5",
+  "date": "2026-09-05",
+  "source": "antaranews.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Orangutan Sampurna Mati Terpapar Asap Karhutla, Jadi Alarm Ancaman Kesehatan Bersama",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXFQSzVNdkF6MW5IOXBqdkk2UW9INlJXanltd1JwVlRiXzg3ZU5wX1NGSHBiV0syb2NORndqa3h1b1RKZzVlMGZyY1ZNNm1WT2VjWEFSUjR1Q2NaSmlWN0JqeVdGRG9NdEo0eWRkaEV2ZHlxelJNUzA4MXdkQ0FyWkM5d0lfV1lPVFhabzBqbi1YRTd4eE5PUkNLdWFQRG4wWXdROTJpUmVRcjNGZTVMYW1R?oc=5",
+  "date": "2026-09-05",
+  "source": "Acehtimes",
+  "category": "ancaman"
+ },
+ {
+  "title": "Induk dan Anak Orangutan Terjebak Kepungan Api Karhutla, Ini Evakuasinya | SAPA MALAM",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUENLSDJna21EMWFhXzQtMG11LVFUYzZZdWJ3bWNCR3ZBYU44ZXJjdjNTbDMybjFKb1loQ05vS0lxQ3Iyc3hnS2Ztc0RUY0xsbTlsMFFmekx1RkFSSlhwWE0ydFdwRnd1RWJTdzdKTVVIMEZtbW5sMlBicDlBZ3plaHZhWFBLYjlMZEFKdlROTEhBZmMtQzJYdnBndTg2eFNqZVpzYzBJZU1nUWktcEFZX3l1UnBlb2JzU3MyNdIBwgFBVV95cUxPal9iNUxvRUVJOWxPbEJOZ0F1SmJXczU1S0RNaG5pRG5oS0ZGZEplNURsOWNQYmZ1REhtT1V6N3Q4eGNBeXdheTV4REppMS1GLThwaFNGaWZ0YVFTMU5PQVVPU3NoQlR4RS0yZ2R3bFhPdW9NYjhBNnFHamxjOGhQOWJYRXU4YnBvSkhBclVQeU9XZ2laNjl2U0hnVmRyc2tLZXpCZDlfX2piMzFSSUdUdFJIcWVTZ3hMWWJrZFY1elZYdw?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompas.tv",
+  "category": "ancaman"
+ },
+ {
+  "title": "Mirjawal: Kematian Sampurna Sinyal Ancaman Kesehatan Masyarakat",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmtyUFVhbzdPakN2a1kyc1J5Z2ZwYWYyenlMUFhkUERNUEc0UVFNZGhGa2FVRFRtWnpzblJkT1RIdmhEQlV4THF0NVUtYUJOMzVISk5OcFdzeWNFSEpPZGdhTG5yREhaNTQ3ckpERTlSdEpGVUtZR2xTVjZGSU5rc0FDdHRhY2hLTFEteUdweE1scVJMQ28tRWpSRGdLTG9wQnhpWWUzMzdEY2tMNXBGQQ?oc=5",
+  "date": "2026-09-05",
+  "source": "Rmol.id",
+  "category": "ancaman"
+ },
+ {
+  "title": "Belajar dari Sampurna, Mirjawal: One Health Harus Memperkuat Deteksi Dini Risiko Kesehatan",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWG1CS01OZ2l2OWh3SGJubGdwaFRSSGlUekluc0lPVkFtdmFFMmk5UnZZNzZmY1RUWnZkSHFFMnpIVHhQb0pDODVjckhTWklVOVJEMXVQNDgxd0tYUHZUa3BQdGJzekZLM0s1U0RfRlU5NzRId2hHN1dtTS1EU0xmUXZwa2dUOWNFeF8wMzJyOC11MHNDYjZUZ0laaGM1cmprVk9RSEFOeVFtY2RaSmtUd25ySFFjS2d0M0U0elUwY2xjQ3p4a3ZpLWo3ZVQ3UHczbnNLU1Q2VHVIT0hRN2hQU0xTR3h4NTTSAecBQVVfeXFMTVhtQktNTmdpdjlod0hibmxncGhUUkhpVHpJbnNJT1ZBbXZhRTJpOVJ2WTc2ZmNUVFp2ZEhxRTJ6SFR4UG9KQzg1Y3JIU1pJVTlSRDF1UDQ4MXdLWFB2VGtwUHRic3pGSzNLNVNEX0ZVOTc0SHdoRzdXbU0tRFNMZlF2cGtnVDljRXhfMDMycjgtdTBzQ2I2VGdJWmhjNXJqa1ZPUUhBTnlRbWNkWkprVHduckhRY0tndDNFNHpVMGNsY0N6eGt2aS1qN2VUN1B3M25zS1NUNlR1SE9IUTdoUFNMU0d4eDU0?oc=5",
+  "date": "2026-09-05",
+  "source": "lifestyle.sindonews.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Karhutla makin Parah, Guru Besar UGM Ingatkan Ancaman Punahnya Habitat Orangutan",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWktOSVNJQktmeFZMMWFrZ0JPUk1lU19UT0tXTXNuQS1qVHVmS2JFZmprN2pXVlp6OWc1Z0NRRlhXaGRJLV9jVHdmR3BRTTVhSkR2M1JCVS1ZV29VeDZybE41M3RJSndRYlpTMFpLemFaU05ZVWEwQnNrQ2oteG9wVzJtZVVDXzVjTzhPMVYwbFZUUGJOQnRyTjJnNm9xVzNfYXlOQnYwTVFhNzM4TWNwMU1PRUpxNllOQlhIMzl4N2g?oc=5",
+  "date": "2026-09-05",
+  "source": "mediaindonesia.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Kematian Hewan Akibat Karhutla, Mirjawal: One Health Harus Memperkuat Deteksi Dini Risiko Kesehatan",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0hGVjVQekRaX3ZmdnpPMUN4M2FIUUp2S0ZBUi1iSlc3azF1MjA5RDNhazhiZ0NVRGdhUEM4N3dSQ0lwSERiaFowNk1uVTdWWVlHSF9DZE4yRXlzUG9wVk5icEtTY3J4YURoRVNLbTctaTQzcUR1djFTOG1wZG5jcExFcmxIOTM4YzEyLVNGYkZUU0ZlZTJ4eFBTcHQ0aVRtSFNjTzQwOTN2aEoya2VUZjFTMmdSSnBpbW5KaGtEaE5WOXlGWjdCN0o5OFA1S1FDc0k2RkdLaFhnYVdCdm5tUFNuNks?oc=5",
+  "date": "2026-09-05",
+  "source": "Jawa Pos",
+  "category": "ancaman"
+ },
+ {
+  "title": "Komisi IV DPR Desak Kemenhut Buat SOP Lindungi Satwa Saat Karhutla Kalbar",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHbjJ0SjJRalNRWlhpbmZjV0hscDdUb3pRSGVwN09xXzF6MHpObDFmQ3AxN2dKd014U3VYVHo2d1ZLeEZvQmE4bDNPWUIyNzRBd2gwaFpYUlB1bktOOXRHRXdvWk9PaHZtYVE?oc=5",
+  "date": "2026-09-05",
+  "source": "ChatNews.id",
+  "category": "ancaman"
+ },
+ {
+  "title": "Asap Karhutla Ketapang Renggut Nyawa Orang Ngutan Sempurna, DPR Desak SOP Perlindungan Satwa - Info Indonesia",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1lnelBxLTA1Z0ZDdGxBTlcwNXZhYTk0eTBwNGlqWDB6Yk8yWjhQc0k2UWVKVmJCMHJXVDRsZ1AzQjRVZEZ3U3VNNjNJSWx3eU1JWG5zT05fVkI3aHRoa3Q0TjBJR09WbTU1UmVyQm83aWZhOV9SYjAwZUFqVlUxZE15aXE4MmM1VFlMVXY5Z1QtUENZRW9iM2JEWWRaSVJCZFB4U21VOGt2Q0I0YmFOcExtcDctcllhTDVDTmhRZGNFd2x4VmduMDZhUzVzeUlQdUZKREdNNDVPX3JK0gHiAUFVX3lxTE9GbmJpX3pQM2IwR3A1YUNIRGZvbmJsS3EtVHJoZnBpUEtIN2Rmc1hjVFNrM3EyZXZxdWRwa3AzM29TQ29sYzQ2bmZXN3lPeU5YYTMxdk9EVmlkUE1MMDNmR29pdUI0X3NBWlpqVG80dUtPT18yYWVKNFdxZktoSmxVbHg4YnBrQXY0LU91R3h3cHFQSTlCT3Bld1JqTzRSbndrbjBmTkxoZHdFTVVrdU93YlNnNmNudktEMEQ4V2VPcE9hemZNQUdiT1RjOFh3SE94eU9iVE1ybzJ5VlhId2FRY2c?oc=5",
+  "date": "2026-09-05",
+  "source": "Info Indonesia",
+  "category": "ancaman"
+ },
+ {
+  "title": "Memasuki September 2026, ancaman kebakaran hutan dan lahan masih mengancam sejumlah wilayah di",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDRKLU8xOGViZ1hvSnc4UlFic3U3TUg0SE1VeDQtMlMtMnh4Tzl5QTVMRWJ1eGlzUEdWV2FUdXpSbjZlT0IwekZrU3VWdEF3QkV6bEx4aTNHTm5QLVBIUVg3UmR5NGxCa0xxV3RmTjlRbVJTUTVVVmlwb1dBVjlDMDhGeEV6bUMzeTc2ZHFlNS1fQmh2d3U0WkRn?oc=5",
+  "date": "2026-09-05",
+  "source": "cedarnews.net",
+  "category": "ancaman"
+ },
+ {
+  "title": "Kebakaran Hutan Kalimantan Paksa Orangutan Tinggalkan Habitatnya",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3hiOHpnbmxOS0FmSUU2a0lQMHVqVHFyRG14V0YwNmN5LUZYeXFId09GLU1fZmFjVFduS2JvVmVkQUFYcExDenhsS0I1U0NTazVNTlc5VlVidjh6TEFqSFRNLUtZR0ZpNzRaR0NOZ09uODRVcTZUOXAyZXh4OTRBQ1JuTjlrVm5PY3plU2lBNzJyemxfWjdRNw?oc=5",
+  "date": "2026-09-05",
+  "source": "Head Topics",
+  "category": "ancaman"
+ },
+ {
+  "title": "Kebakaran hutan di kalimantan Halaman 1",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTS1VbGJLdlBjYzd5WVRkcERXRnlDZU1YcW9kWEI0Y1p0VFEtRGp1YzZwMkRhZVJoSFQzbWNoR01MUU5KT0lncENBZFp6ZlZxYnBPMWJncklraXF3S21UU3pEeUdEZ0RWQlJwT2hCRFVvb0hHWEM5eENSNnYxV2NKaTJUQnlXN0ZraEFuOV94VXdwTFJqQm8zWllaWTd3WEM1VUhR?oc=5",
+  "date": "2026-09-05",
+  "source": "Kompasiana.com",
+  "category": "ancaman"
+ },
+ {
+  "title": "Kemenhut perkuat Satgas Penyelamatan Satwa Liar hadapi dampak karhutla",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWNMSktVbWIxcF9CZGRVa3FySHg0Qm5fV1V2OVVLaHVrNll3SUtfN0k1QWdaTG1yZUF5RXdpVVU0NGp1UzJUS01zV0NKVkpHVDFGd1E2U0lrM19uQjRtdlVSRDdCSmFmR2xlUVJrdTB1LXNnZFdrblI0OFpnTHplVHkzOUI3dFJhRndjajZjUjZBUl96dGFPeEloQQ?oc=5",
+  "date": "2026-09-05",
+  "source": "cedarnews.net",
+  "category": "ancaman"
+ },
+ {
+  "title": "Orang Utan Sampurna Mati Imbas Karhutla, PDHI: Pertanda Ancaman Kesehatan Lingkungan",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXdvNUtDY1p2RGVYeEhreFVoYWE5RkwyUDhocmJ2dnBiWk0waWNJRV9DX1NWUDBuSnEzWDNYSVZHX0ZJZWpDeHl4VWRnSFVlcldHa0xvSXdDRkdramlHT3c3bzRPcGowblpia1YySVB2OER2Mkg2YjRzSnFpY1lPZERkV2NuUUUyTUdCOU80V3ZPRTUwWGNVd2w5cGhnMlg3ckNISEJBRGlWZmxCQlB2UTc2c1RiczJpeXZxUmN0c3p3algwYTVQNlBJRThMVVh40gHQAUFVX3lxTFBBd281S0NjWnZEZVh4SGt4VWhhYTlGTDJQOGhyYnZ2cGJaTTBpY0lFX0NfU1ZQMG5KcTNYM1hJVkdfRkllakN4eXhVZGdIVWVyV0drTG9Jd0NGR2tqaUdPdzdvNE9wajBuWmJrVjJJUHY4RHYySDZiNHNKcWljWU9kRGRXY25RRTJNR0I5TzRXdk9FNTBYY1V3bDlwaGcyWDdyQ0hIQkFEaVZmbEJCUHZRNzZzVGJzMml5dnFSY3RzendqWDBhNVA2UElFOExVWHg?oc=5",
+  "date": "2026-09-05",
+  "source": "tvOneNews",
+  "category": "ancaman"
+ },
+ {
+  "title": "Siaga musim kemarau di Tanah Laut: BKSDA Kalsel gelar patroli ketat demi selamatkan satwa liar",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkZwM040T3FGX1FUcnNBcG41SkxKazlON1V3LS1zX1NVYzRNVkhBeC16TXhCc2lBU2otRGh5cjNLVXMzZks3RkZlZnlhX3RMMDltQ0puaTBfcUE2MXJ0VlNJQUd6U0tHVklrMnpCNFhweDBHbDZRU01zY1Nqc3dFTDB6TDRJRHhfOHczZmdBUTNJMl9yX1NB?oc=5",
+  "date": "2026-09-05",
+  "source": "Head Topics",
+  "category": "ancaman"
+ },
+ {
+  "title": "Berkontribusi Bagi Konservasi Badak Jawa-Sumatera, Pelajar Galang Dana di Sekolah",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWtmLTUxWVBSMjF0MHViRlFrZWpBcUpSbWIxLWhsRU11aGZYcXB6aUhkaUk0Zlhmcm8zYVhUZGFWMlFpU2szc1VNQUV4dzB4dG5pMDZJeFVUdWt1clhMTzd5Mk9aMUlPUW5WVlVDQ3ZqN1RiVjhmSnZoR05PR0xveFhKMlQ5ZVZvN0hCeklmVWh3M1Z6dm5NMUlYRWZuZnpRN0ViX1ZVM3I?oc=5",
+  "date": "2026-09-05",
+  "source": "Sudutpandang.id",
+  "category": "konservasi"
+ },
+ {
+  "title": "Induk dan anak orang utan dievakuasi akibat karhutla meluas",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmE5bmFHNUhvNTZrWUh4Z0V3WXktLUVwdWw5aW56d25QbjRPV1dBS0JEZGRPQ2I2RWlLVDBDZTZJaS1zcHJka254MG5OT2tvRTd1bWY2ZWI4REU5dHNBMkJCZnRkTm83Y3ZsSUExZVU3UVhjcmRJX2d1VkxPdHJJb3FSaXZWV0ZhTHFpOGcyYVQ0TTFMQjZ1WDF6eXhUeE15OXM1c2RZUXUzbmfSAasBQVVfeXFMT0phOW5hRzVIbzU2a1lIeGdFd1l5LS1FcHVsOWluenduUG40T1dXQUtCRGRkT0NiNkVpS1QwQ2U2SWktc3ByZGtueDBuTk9rb0U3dW1mNmViOERFOXRzQTJCQmZ0ZE5vN2N2bElBMWVVN1FYY3JkSV9ndVZMT3RySW9xUml2VldGYUxxaThnMmFUNE0xTEI2dVgxenl4VHhNeTlzNXNkWVF1M25n?oc=5",
+  "date": "2026-09-05",
+  "source": "Antara News jatim",
+  "category": "konservasi"
+ },
+ {
+  "title": "Ragunan bidik standar internasional dengan kesejahteraan satwa",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWFxQTZMY1pkbkJwZkd0TTI3R1RCcDJobnF3dWtPdHJnazlfaWZpWE1rWUJDTFU3QzMtWGVkRE9QcktucDA1ek9IU0RmM0MzUlExZDAxbFp4MElna1NuTUdCTElzVzRKVXBOZ0tYWlpwWEpGQ253WGNNVUFRRkVKVjFSbXZQc3RyX3BFYXZUVm03RzNEUmhRMTZKbTdaRVRXNTVwMGFEeHRBSklXd0RLZXN30gGyAUFVX3lxTE9BYXFBNkxjWmRuQnBmR3RNMjdHVEJwMmhucXd1a090cmdrOV9pZmlYTWtZQkNMVTdDMy1YZWRET1ByS25wMDV6T0hTRGYzQzNSUTFkMDFsWngwSWdrU25NR0JMSXNXNEpVcE5nS1haWnBYSkZDbndYY01VQVFGRUpWMVJtdlBzdHJfcEVhdlRWbTdHM0RSaFExNkptN1pFVFc1NXAwYUR4dEFKSVd3REtlc3c?oc=5",
+  "date": "2026-09-05",
+  "source": "bengkulu.antaranews.com",
+  "category": "konservasi"
+ },
+ {
+  "title": "101 burung diselundupkan melalui Bandara Soetta berhasil digagalkan petugas",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWlHSWc3ejhUNVZ4WVZTRUNaN2FQSVZ5RmI2Ym9vXzg5akppZDZ1dWkzTjYyNDl0bF9UcWo1ZTJXZTZCNFBhZ2dSVjZXZ0hyNmxQaXF6RkNyMlZVSGhmZWhHeEhrUVhUV2Nob3gwMzg2WjFuLXRxcDBCcjNleFRKODg4ZTJxb0VBVE5WYmpSWEVpSWNIWGE0TWlLUm1rUnhVeURoYWk4eWdfSjNFZ1ZTVWpIbUs2c1ZDQzBv?oc=5",
+  "date": "2026-09-05",
+  "source": "ANTARA News",
+  "category": "konservasi"
+ },
+ {
+  "title": "Peringati Tumpek Uye, Pemkab Jembrana Lepas 200 Tukik di Pantai Perancak",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZncyU1UtTUZwellBbXRzQlFlX0s4VlY0NFAySUNhdnhNazBMbnlyU2MtX21fU0hZeEJOSk90ZEJRdnJHM0xHZUl4S0lGWHNsMTJHQzRobmNOd0k5VGdXZkpuMXI3OHNndkxGcmJWd3BvY1hDaThERG1WYmtZLUt4TzFDVXNxN0dOU0kxTXVDM0JaVEsyYTNETXV1RHJOX1dENWNCMS1Jc1N5RVRTVUt4UVUxZ3o0SnfSAbcBQVVfeXFMTWZ3MlNVLU1GcHpZQW10c0JRZV9LOFZWNDRQMklDYXZ4TWswTG55clNjLV9tX1NIWXhCTkpPdGRCUXZyRzNMR2VJeEtJRlhzbDEyR0M0aG5jTndJOVRnV2ZKbjFyNzhzZ3ZMRnJiVndwb2NYQ2k4RERtVmJrWS1LeE8xQ1VzcTdHTlNJMU11QzNCWlRLMmEzRE11dURyTl9XRDVjQjEtSXNTeUVUU1VLeFFVMWd6NEp3?oc=5",
+  "date": "2026-09-05",
+  "source": "Pewarta Indonesia",
+  "category": "konservasi"
+ },
+ {
+  "title": "Dr. Susilawati M.Han: Selamatkan Habitat Orangutan sebagai Keseimbangan Alam menjadi Sumber Kehidupan Manusia",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlNsSkpmZjdsTVJ5Rm94T3BlTTNyUG0tOEpnNTc4T0dHNFcyWllRUWtwRFpmREtVSFRxNGZRVDhqelc5bjB1bXNtOUxyaGozUUZXdlFRaXk0dkZSRjl0ZmFRaFVHNzJRZFdvLWVaX01DNXVYT1dmYnoxTEpzSFVDWHgwdzMwUXZOeEdfcjJTeGlKQS1hRkhNT2sxbU1Fb1A1OTlKSmM4Vzc4TUFwV0VsVmRtZ1NyNDR5eExHUUlTdDRmeXZqNnE2UTRfYw?oc=5",
+  "date": "2026-09-05",
+  "source": "otoritas.co.id",
+  "category": "konservasi"
+ },
+ {
+  "title": "Orangutan Sampurna Pingsan di Hutan Kalbar, Peneliti Berjuang Menyelamatkan Satwa Terdampak Karhutla",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczEwMU1SSHVvMmlCS3lCYlVaOW1LMUp4c2lhSF9sdi1USDRpM2s3R1RobmtpNW9FMkdOU2I4UEVZYUZ6Mkc1MVhvdG1NbUk4NG9rVUtKdmpLWnlESU0zai1lYzhHTmFoM0prRVNYRC1RcVljWXQtcTR3VVVjei1tbDJyMTNuRmhSUi1rakFiYlU5aElvU2ppaC05emR6T3c3bWdfNUpFb0FRTnk4WUZqbFJUNXlsNUpaVlVaQU9EQXo2bjlZcjFkSzJEUTFtTUk?oc=5",
+  "date": "2026-09-05",
+  "source": "Universitas Teknokrat Indonesia",
+  "category": "konservasi"
+ },
+ {
+  "title": "Burung Tak Lagi Hanya Diselundupkan Lewat Darat dan Laut, Kini Langit Jadi Jalur Gelap Perdagangan Satwa di Indonesia - Selingkar Wilis",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDZWb1A5enhhb2Q2cHJZWnlfMGVaVUNOOTh0Y2xaRzFtaEoxU1c2X040aXItMThhU0RfUWlJNjJud2hGek10Vy1ObHNuZ1ptd3FoUEVoa0NTanB0UjJvdDdOazNEWmxsaTRmN1A2MTFQRjRIcDI2VmpraDdtc1gyMmxVazhjaVhobUZjczhJVm5uTVVwbjgyZURvUjBXNUR3dU41QWpPV0xCdWEyRG5HQ21MaHNhUkRRQ0ljczhjZTNZcFg1bVJZaDltWWhxLWFVcDNDc2FwVU9TbHprRTAwNTNKcVBLVTJERWRBb1hQa1lBYUlwUVVpdUVhU2jSAYICQVVfeXFMUEFUeHdITXBhck1pcWdMdFJlazVlU1ZMOTBUSzFObXRYeHU3MUJCd0swUmo1NzF5ZDRCck5LWlRyRmZWRUJXUV9YazFfV1dSdWtCTlZwaG9zYVhlLTdtOVdTNzRCX3BBbWpKckdFSlBEbnptU3VkNExLQlRQWjBQUjFKdWQ5TVpudnZuZjVLVURJQU5Zb3d3RWNwV2MyUURNN2t0bHpfd29yQlpCV0J1aU54U25mYUdhYWJLd1c1dlZQTVNfa25KeVVxdkdlVTMyYVlsbmRBNFpwSzl0Mlo5TnNXd1hJS3FDVjdJanZoMFktS2pFTGhXSU9YSDBoRDdCTWdR?oc=5",
+  "date": "2026-09-05",
+  "source": "Selingkar Wilis",
+  "category": "konservasi"
+ },
+ {
+  "title": "Menhut Perkuat Operasi Penyelamatan Orangutan Terdampak Karhutla di Kalteng",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcS16LVpRQkVTdHZHMzVDSm00WkVMTUpfS25DWnhhdVJqZDlyMldEQ0hZd1NFVXdpNUY4N1BRZ2FzM2JXZW45am5ldnlYS2dGSzMtUkFwN2Eyb05hemFBbng2eTdJTV9KNzIydGFpNm9tTG1CYnhtNzFPQ2NXTVRDT1ZNbjJXaTlURVJBNVMwZDRuZExEV19ieG1vYVRDNVFkVThleA?oc=5",
+  "date": "2026-09-05",
+  "source": "Indonesiabuzz.com",
+  "category": "konservasi"
+ },
+ {
+  "title": "Antispasi Karhutla, Pendakian Gunung Kerinci Ditutup - https://jambiekspres.disway.id/",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMG82eWctS0hWeWNpSFQ4MDR3VW1uOUs0TkszWVJGbWo4cTE3NmJPb1d3SzNnWUdWcnF0cVdLNV9aZTIxbVYyMDUycGpWTjJHcjZKeGNHUXhHTnozMi0xUFNKMlZKd3F0bk5tRTkxVHNfNFNiblMwaE5velBmeTlhOUJUaVdjR1U4VW90UHVrQ3YyT29BcURLZ9IBmAFBVV95cUxQMG82eWctS0hWeWNpSFQ4MDR3VW1uOUs0TkszWVJGbWo4cTE3NmJPb1d3SzNnWUdWcnF0cVdLNV9aZTIxbVYyMDUycGpWTjJHcjZKeGNHUXhHTnozMi0xUFNKMlZKd3F0bk5tRTkxVHNfNFNiblMwaE5velBmeTlhOUJUaVdjR1U4VW90UHVrQ3YyT29BcURLZw?oc=5",
+  "date": "2026-09-05",
+  "source": "Jambi Ekspres",
+  "category": "konservasi"
+ },
+ {
+  "title": "Pengendalian Karhutla di Taman Nasional Way Kambas Butuh Sinergi Banyak Pihak",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExlckdhcmlTS2JFWjB4MkdaRDhUOVFmdlBJa0VYMDByZ3J6U0lXYTlVU0lwdTNPc3VKSHFybTN1XzI3d04xVkpxbXlvaTRfcm4zY01iSlg1QnhubXUwUFFwaU53OV9ub3Y0Uk0yRl9NeFRXYmN4Sm9hbFM0NmV3Z0V0TE9tM3Q2Vk91aXNSU2t6MDVlbnRBd3dQY1ZrZEdoaG5mQWZKNFFFckstNC1GaXlvd3ZjZDVpLXZNdmVoY0xpdnpXVkE?oc=5",
+  "date": "2026-09-05",
+  "source": "RRI.co.id",
+  "category": "konservasi"
+ },
+ {
+  "title": "Karhutla Rambah Pelintasan Gajah Sumatra di Wilayah Sumay Tebo Jambi",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVBDdkQ1TGxBYUFHM0Y1STJDUWdEY2JHTmYzUnZnbGVGa3Y5S20xdy0zTG5yM0p4NEJvVmoxWFE4WjF0UHZiS1U5XzJHTmlfTTVSMkVSd0stclN4YVdfZGRzN0FudUFKVW1zN2J6bjJGR2ZMdmIyQ3o5eHZ6eUZTTDMzcTVPRHh0RVlhdlA1NGZacTZHSXdsYUd2Q09HN1RYcV9WeHo1NjNOMnNmYlkzTVNn?oc=5",
+  "date": "2026-09-05",
+  "source": "mediaindonesia.com",
+  "category": "konservasi"
+ },
+ {
+  "title": "Orangutan Sempurna Mati Akibat Karhutla di Kalbar, Legislator Desak Percepatan Evakuasi Satwa - Harian Haluan",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVG9kM3E4LWVYRjc3dmdLcXNpN1pOWGQ2ZXpHS1dlU1RvMWpaNXE1Q3V2U1liZzRmVEJ1YlE5a3V0QnV5cm1xNWtBa2FuNEZ2STdpeTZyeTRyNE16cGExSVEzVHJ2cjB4bXdtbkdIcFR6dDFKczlJUy1XNDBWcDlpU3RzRWpWLUhlOGNTU29weE1EeHpRTXVQLWlYRU9rV0k1Z01xeTFXNENLQWpQUU1ONVZ3QjA3RHQ4R2QtM1M2aFZjZFkyNk5rbjVyWi12b25GWUVz0gHYAUFVX3lxTFBKNDl5T3FrZFNQNmc3bjZEWk1JV0lPWG5NakVsS3d1MjhDVlB2c1YwVkxKVTNLUHFKNTJDVUxRT3BGR3gwWXc5bGdfZWlhVjNaazJxZHdTVFZBMzl1ZndHX1diNlZ5UGQ2bXNZR3lHUm9XcHdLaVZYaE5MYUdsWnVBMFIzVGs3NGxoRGFVOU4yY05tVjdFeXlQbWd6cWo2dUVKRGNtRHJyTTljT1ZFeDBERkJGN3poamdnc2lWM3JQQmdpb1RyT01MZW02cjNvNVdIVEVSMnFkZg?oc=5",
+  "date": "2026-09-05",
+  "source": "Harian Haluan",
+  "category": "konservasi"
+ },
+ {
   "title": "Menjaga ASEAN Heritage Park dari Ancaman Spesies Invasif",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9jOW1mYTVVYmt4b0lIdHRtbGJVX25BZ2ZHS0pDMmZDeHpNUHp3VHpETHpQZlFHT2draHI2YjFsSHYxOUhiai1oOG5HYmRQdXJ5bHlkbXc5aDQxTkFJQ2pXdWk1aUtNWWw4TW43c3ZNOHp2elBmXzN6cXAwbExFanMzVUNQRVNGaXFaMnN0QnV2Qkp6QkhVT05aSlhmTUZpRWs4S2tyUFg?oc=5",
   "date": "2026-09-04",
@@ -683,6 +1173,174 @@
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUd2cktsazRneHVNUTJGejJ6SlVRcWpXMEV4S2RmbXpUdXFsNW9PbDY1ZlVTSlkyUGVjZmRMcW9TZnM1d3dHQmQ0WE1qOWZhdU90dVFpUWVPRE5uWGJsVGVxODR1OXVlQzN1NHBWWnNZZ1J3bkNZV0djdW1IbGw0UWtSUmdHV2Q0NHVoZFZ5dlQ?oc=5",
   "date": "2026-09-04",
   "source": "Qoo Media",
+  "category": "konservasi"
+ },
+ {
+  "title": "Buku “PAPUA: THE HEART OF INDONESIA–PACIFIC FOOD RESILIENCE” Karya Steve Mara, Resmi Diluncurkan di Jakarta",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFFCcF8tRGxpNXJVcWVBWHFQajQxZ0FLZEt5enNyQ2NwMmt3RV9mYTZhNTlnZkdhYmd0c0ptZDM2TFJHQ1JzZVRncE95Q0l1Wm8yODRkS0tnSXY2bGdQMG9wUlpTRnNVdTZreV9qcDJPcV9OaW1mNS1oNjdxT1N5aFVlUzIxWWhQUGs5SVNicEhoa3ZnaW9IYnVMSENmdjJnbVhGeHhFMXdpWmo4Y1lvaVlDT1YxNmhYTnVWdXlkQjFMakRpR0ZzdURTVUxEcXViWl93?oc=5",
+  "date": "2026-09-04",
+  "source": "semuwaberita",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Kunjungan Putri Swedia Buka Peluang Kerja Sama Genomika Indonesia-UNDP",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDNhbWJJaENPUjJ6T0V3ZHZmbG5YZzJaNEY0R1E2UW5BUXBHNVZ1cTNSZ3k0SFBjUnQ1bGNtN19HWGp3MnFnNXQxN0lpOVpfMTZxVldEcGZ1YzZlQllNQ2hrQ0phNXJNc0pIMmJtM1ZhM295Y0xkSnpfdWhVaWtXT0xJX0lDRVM4TlJONVlzYVpVT2tMczJJaUM4VmpQdEh0YXV0dnhVUWJmNUZBb2hv?oc=5",
+  "date": "2026-09-04",
+  "source": "investor.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Ketika Penyelundupan Burung Terbongkar, Mengapa Dalih “Hutan Dibabat” Selalu Muncul? - Selingkar Wilis",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0tVMjc2dkNrSHBESTJKUkVoQVNwVDd4MXpiLUpaVnppLXNPZzJMOVYzMUZQSGN6Rlh2RUg4dkVEUEZLZVA3Tng1OTJJWDRucElSa0JOSXF5dWg0S3NJLWV3cGtmbmJWS0F3ejVMcEN5b01nejV1Slh1WHZzUXc0VWp3bEFsajZYZ2RBbG1oblJrNXRQcW9IMGR5LWhDZndTTzd1cTdGMGxwejJSaTBFcmQ2LTdBVzVoZHExckZnLUF0NjFBU2ZZadIBzgFBVV95cUxOR3lUcUhoa0JJZjhuQ09vajhEckh6eDE3RThSQkt2UzFHcFBQTDBkMlFuQlB6VkpJQzdLOUFzbzdxZzlYc0FHLTZra2RMam1jNjlmSXB1NGFicmx6bHlLS2ZEM2JScEgyWERHWUdYdW0zMkt5dGJnallZUTVRbV9OeHA4OHdzVUJNY3VvUWdYNWxYYzF0Zi1NbHV0X3F1ajE4MXd3QTB1dDZuWUxGbkgwUnN5VDFiYUpfQXJpYWFheFpPOXJzaWR2U1dYM19SQQ?oc=5",
+  "date": "2026-09-04",
+  "source": "Selingkar Wilis",
+  "category": "kekayaan"
+ },
+ {
+  "title": "IRI Indonesia Ajak Gereja Suarakan Perlindungan Hutan Papua dari Mimbar - G-news.id - G-news.id",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUt6NFNVaWRZQnJxOEV5Rjlna3ZjZFRIVWtPaTlQT1VRNTZwTlFGbWhjcTRVOUtsV3ZvVk11d3VxVU1fcEl6TGlMZHA2TVFmdXYzRGtEVmlHQlFqNUlmUEp2X3VBTFNST25pc2FyUW1Jc1hPaUloR3JNYm9LNHFZOTZhb3ZHRXA2VGd4dnpVRHhtMEpwMGlYNDZ3dk9MTTFZNi1RV0NoX2t3cnFCMEVtd05rSdIBuAFBVV95cUxNcWhHaTV2alA2U3FhRDQ0VmlCZ0thVjVBcWs0bzJaMkFQaWxDMEk4SkFuLXlydlk0cERISmREOURpMHFoa2FsYXhlNlFzVk10RnFCeVdfOUxjUXhTZ05qSnQ1cjZlVF9kZkpZbkRHSy1fN0xPZDUycmZYektaUE82aWhHX0FEcnJOSkFUb2ZJWmtLTlRIMk5pQXN0ZlloQnVub0p4dTcyaHFzTDkwcGI4Z0IzeFFEUTZr?oc=5",
+  "date": "2026-09-04",
+  "source": "Google News",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Emtek Media Resmi Jadi Pemegang Hak Siar Resmi Asian Games 2026: Tayangkan Seluruh Cabang Olahraga",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMllELWswLVBPQVdzN2JPRVNZQmhLR19nTVpmYTg1Rm55Zi03ckxDdmgyZGRhb2czVmJuTzFSWi1qeE9GTXF2WTFKQS0ybzVGSUJzYkxZUno5aEJRV3c0UmRoRzV3WFBzNi0tWU9QR2RMRHE4M1p4T1dEbzFsM21nbW1POW9Mc1l3V09jUlNZVkZyXzdycm81eHVuUlRYZVlsMHI5VU5URXJESE5XcXNxY2wwc05sNW85UEE2RU1Kcmw1QUVXcWtGT2930gHKAUFVX3lxTE4yWUQtazAtUE9BV3M3Yk9FU1lCaEtHX2dNWmZhODVGbnlmLTdyTEN2aDJkZGFvZzNWYm5PMVJaLWp4T0ZNcXZZMUpBLTJvNUZJQnNiTFlSejloQlFXdzRSZGhHNXdYUHM2LS1ZT1BHZExEcTgzWnhPV0RvMWwzbWdtbU85b0xzWXdXT2NSU1lWRnJfN3JybzV4dW5SVFhlWWwwcjlVTlRFckRITldxc3FjbDBzTmw1bzlQQTZFTUpybDVBRVdxa0ZPb3c?oc=5",
+  "date": "2026-09-04",
+  "source": "Bola.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Jurassic Park Thailand Mengungkap Sejarah Dinosaurus Asia Tenggara",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDlKSHBpT0FaNVFSV0lJbzlSejd2TmNVRXl0a0p1M3I2MUJWYUR3cXQ5dVhUMjJYaEtQaVVndEIyaWJMU3BHN3JsaXQ2ZE9SeE5zTmJzbFVLVWpoT2N4TDNYNTdDa2taWjRRNW84TEtXVlBoWExIVGczN05xUWZmR3lCbEhsS0g2eDd0dUlrSkJHaU00bm9PZUpWaUkwYndVak9RaHRnNjh2Wi1mZzFMZ1dWVnd3Y01meUgxeUxpMA?oc=5",
+  "date": "2026-09-04",
+  "source": "Sindonews Tekno",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Memulihkan Jiwa Ekosistem Halaman all",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZW5SSmxZQVFLdGV0SXp1azVWLUZoMk5RdFhnbS1zYkRITVZoQjFLUDBKZHkxc2g3TUN1ZDVfZ2pyckhKdzd6VzNFU2ViOE5CTFM5VG9mR0Y4Z1IzalljZTFPMGZPMUxyZlBaaWxueXByRm5BOG95SzZuXy1vLXNKQmZoZmpBb1huQUdHU3JNS051U2NNR3RZVzlsM20?oc=5",
+  "date": "2026-09-04",
+  "source": "Kompasiana.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Surili Jawa Terancam Punah, Primata Pemakan Daun Jadi Penjaga Hutan Gunung Ciremai",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlh2MTRCbl9YME1RZDdOS3Nrd0tmaTV4cjQ4S2dLM0xaRDk4X0E1N0FoX0taUXdhVzRDOFVLenBRcl8wYzlMRmNHNmoydy1FMl9ZeXN3QlpialVwSzJUX1hKQUNQUXp4c2Q5Z3FBUVFZRFpPUmRTdWo3eXpRM2dZWm1sWC1LR29DdThfLUN3aUhzNXF5Um5zaldrLTdTZDdERmtxZE9vZjVTQ1lBRDlub29QT3hkbFBZd3haOWRReEZvMlE?oc=5",
+  "date": "2026-09-04",
+  "source": "RRI.co.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Dikepung Kebakaran Hutan Kalimantan, Momen Dramatis Penyelamatan Orangutan & Trenggiling",
+  "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQcGQ2X19YOFBDaEFqOFlDaHI0VUZ0aHc5TExFWV9NUE1pbWpIMXZuazB2ZldIMWQ2WGZTTkdkLTRaU2RkWDVheTlsT1VzMXBrMDBNY0pFX2RZUXpKa0lwcVlNZ2ZHVWlhSXN0RGdhdl9NSHRmVjBpOU5qS1dETXRscHZNME16c1RJdWpkSXJlRHN5TVpDNTY1RzRXSlotaWlQakVXU0gyOXd6ekZLdGpXZGUwNUdjR2NvdHIwNHhGb2pYOThYS3BQMjJYRzJOM1NrMnBHQXE0YmNDN3pGM3VnWmUwNFF5bmlPOXA5QVlEclQ4YmRmT3otNTQzaE9iLWdudHFGdkdwSnFQWGxYZEd4S1dPVm52d19vTk5Jc0p0eEhEdmM2Qkowd2VGWllGTEpwb3owVG5zbjhIU0RZMnhlQ3BJZ1F2Y1Y3NnJXSjhhcFpMd2t4cktUV2d6dnpYbGRGdktzVU44S1h0dTNRSUU1R3V5MXhfRmtiZUlyRA?oc=5",
+  "date": "2026-09-04",
+  "source": "Kompas.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Tim Penyuluh Karhutla Mabes TNI Tinjau Pemadaman Kebakaran di Bengkalis – Riau",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDUzWVFkVS1YeHd2VnZBeTBOWlRZS1BmSWRlSzAwcFNGcHJ5T0hlMjhDQ3p5Qmc4YlRVZmdYVXlTSTlsUTRtV0hzWFlYc092U3BNa0NaZFFtUnN4c0R2REJYM2dGbEg4Qkc1QTd3WUQ4WEIxV29ieHNFdHY2Z18xREl2UmhlSF9hd3hMQXJoYmdrWGgyY3hncUpQaVRyM0NVMXc?oc=5",
+  "date": "2026-09-04",
+  "source": "centralnews.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Kepulan Asap Karhutla Kalimantan Terekam NASA, Menyebar hingga Malaysia",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemtPcG9adzFxRXBMb3dZZjRLWG5ESGRMYUR4U29TamRLejlETjN2R3o4NU00dDdaRnlxSjVSWTZ6bTlYM2dDYmFkdk5DcWgtLUlCTWZzRUk3ODBsSVUxSTJjaXNSbXdpdEhzaEcyVnNDQXR1Q3VTanhyelNmZm9ES29PYUV0cmdEQllnQ2tMbnZzeVlmTUxEYVZ1cnRRS1Jmc2p0UE42SXZKbWJwZ2tEd0VqbHZIMHlrd0k0NA?oc=5",
+  "date": "2026-09-04",
+  "source": "Kompas.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Tragedi Karhutla Kalbar, Orangutan \"Sempurna\" Mati Mengenaskan Usai Terpapar Asap Pekat - Cirebon Raya",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNG1Vam9qVDdYd2NnMXFBNXJoZm95NkZjcFJBdndZa2czeWxzdTVCbjRHcHNCMzBoejRYWk1Ka3RnUEpwTTFJUkkycGhEWnNsZnhsOFoxWllKeHdfUUFjX0RLRXc5bm9TbVZmV3Z5TUNFblE2Uk1Qdi1od0k5Z3BmdTBxVG5GOU5KRENpNEdLTTdZeUJiLXlHeFNGYXpURThWNVVCRFpYNzNkYlRDODc2M2oxaEplUGJtMmwwTG9ERDRoSmxseXcyOVUtempwek3SAdQBQVVfeXFMT09NQXU5aGlkbnUyd0haSDhfYWpjQkpQRklyMUZNUGVBaU1FNExRWUVZTkhaM2hLUzVIczRtV1JmOXlSNDhfdGNQNUdfMzd2cjVVVlJ0aHhna3pEMWlnUXJGM1FVZUZPRlY5alJ1d0N4d085dUZuLWZxWVQtWWJsUUdBVkV3bEtNLUpyRW1PMHUtVkVrUUlNaXYzdUViOXlvN2J1M3ppQ1pWekhPRGJFa0QyaXJ0YkVWR0xMTTVDcFEyOENKS1Qxc0QwOE5MaGlBbWJVS0s?oc=5",
+  "date": "2026-09-04",
+  "source": "cirebonraya.com",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Sosialisasi Karhutla Satgas TNI di Sukorahayu, Warga Soroti Dampak Tanggul Penangkal Gajah - SuaraGlobal.id",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0FmZ1VZbE80ekt5X2R0QnlmWGxLbzNrc2RySGlpS0U4c1FseTg3WXdENzdCZS1rTXJZOENLMWZzT0p1OHRSWVZEYndLaWdUMzBFYTNkTTFnMVRKQS03Y1RaSUlDSExkanc4RzlLNHZ4QWJJa0F0S3pLV1dLc0VsRWNucm5jcWR2RDhudWM3aWQtWjQ0dVZyTDBYYXVjRExaOXRieDBPRG1YaVV0MThEelVCZ1ljaEpJQzhTc2toMHROVTJpMGN2RnM2bnjSAdIBQVVfeXFMUFBWcUNlTWtxTVZNRmpzQ0ZYblZ2NUNpbjE0emRQeXRNQU82ZUFpMTN1MG9kQnVBdHQtTmFiam95TTZyVXFES0ZfOVo5elZjRktaTFp1RVNfcWZYMTJTWU1pOU4yMXdULTZGTVNRTXRrNVhBWEd3MV9YeFJQLUVYNjVyb0FmUGZHN3hHZk9QaGVJZlk2dmF4U3RWVmlfM0h2elByZkNkTlIwMmc3X002LTBCNnVpdUdydW0zRU9SVk9aYTZrU3ZLSFQ2UDlRaTgtTk53?oc=5",
+  "date": "2026-09-04",
+  "source": "SuaraGlobal.id",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Proyek SMIAS Resmi Dimulai, 438 Hektare TN Babul Terinvasi Spathodea",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWJCQXRLb2MxcUQ0WWRRdXpqd2lOYkljU1hKcURlYlk3NGl6S1M3cTFJZmFxdGlUM0ZEb3JNcFNreC1xSDgxM0pPTXUtSGRoTy1peFpYdjROOXNmVDU0Q3FnNzVGYmtaanJCOENqRWMwcmdxQUdhdHJwYmdlbXlvaU5NT204V2R1Y0k1dHZ6eTVES2VkYUwzZEk2OUU3WTlLZlVnQmZfRG1CQQ?oc=5",
+  "date": "2026-09-04",
+  "source": "FAJAR",
+  "category": "kekayaan"
+ },
+ {
+  "title": "Ketika Suara Pengicau Hutan Terancam Sunyi, Menjaga Empuloh Paruh-Kait dari Kepunahan - Selingkar Wilis",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDNEQXg5TnhlZ2p2MEFTSlBFdldlNlNPajFrRTVGYjRTNDdUaThzQVNxSVZCVGhmQ1RjMFZvUXNyZ0dha0RKLWxJNWtQb0hNUlZOR1VmX09aTTdKNWNQS3U3dnY5U3B0QUZoYjUxU2RUejRkWTNfWWtVVWtpZXMyZnJTNG9LeFNZRTUzWTBqMzRhY2JHd21FREtUWXdudUttLWk3cmE1bTR2Vl9pYkN0VWdyRlhSV0RYV3VLNkx6b3kwZjdodWpDZVNKXzDSAdIBQVVfeXFMUGdUYTFBZE1lRkpvazI3WWFMUVZKZ3d4VU4tamRRRFYzWDRSeTZwc2dBYkZPbExaMldyS2l2aW9vbnJTOTVVZFNkdDBFTDJrSDE2SFR1ejBmYVJJbEJVcGxVQXVqdThSUnZoNlc5UFBqdWwxczk1WUZlaVRmTVVpcGppR2tHOVVpbkZIWG9PMXl5VDdSX2piLUdiM1N4NDlzOG16WllzQTFjdXp1aHN0SW5yZlItNlZwUjh2WE01VWhnQk1pMDR5cjhtRFBCeHVwSjVB?oc=5",
+  "date": "2026-09-04",
+  "source": "Selingkar Wilis",
+  "category": "ancaman"
+ },
+ {
+  "title": "Dari Sumsel ke Tanah Jawa, Tiga Burung Dilindungi Menjemput Kembali Kebebasan di Alam - Selingkar Wilis",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZGRTUnZPS3YyTXFmd0h4T1V3bURGSm5LX2x4aTBWLU9TakU2UnhHdXRwa3JkVmo2NUN0WHJldFZ6N3pReVZFWU80MUVzaGdVbEtMXzItQTRSM0JHcVRDNDd2blNHdTVmaUJsYmVVNGU3eTBMT3FLY2t0bkNDNV9TeUxJR2tBeVJzdVlnLWtsQkxEQm4yZFA5Mm0wSXFSaHNzanVGdEdDa2JzQjlWYVVyZUx4ZHcydFBKdW5TWkIzcUtCUFR5aWIxYlZWLWtwQ09BOEHSAdcBQVVfeXFMTnVaNmJkWTlIR2hRT2JlTmlUQ2V0TlhFczdUUnNLdTdPRjQzbDQwSzdVODNwbGI4NktYckFXVVR1UjlKWlJqMktWMmUtZWl2bkUzV0pmUVBNc0xWWXlkZDd2R2pxbm9EOWRIa0Fmal96d3RhczN5aHlvMkFwS1VqU1lDMEdjUEdNcFNqRTk1azlqY184MzFYV1BqOWNzVjhUcWo3WDhXbnhnejZwdGRKM2pfdXVma3kxMDUtczlfRjJ6TF9tLWRhVDVvWWk3U3hUWnVqSTdVRDg?oc=5",
+  "date": "2026-09-04",
+  "source": "Selingkar Wilis",
+  "category": "ancaman"
+ },
+ {
+  "title": "Karhutla Kalimantan Ancam Satwa Liar dan Picu Kematian Orang Utan",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSFlyaDZIQ1lGd0hOMm9YeVhnMHRkNE9VN0tFcjA0bWFWSnJCNWxheHZKT2JkUTV4bkZMWGhHdHllTkduOGRPWEdjbF8xeEtmTmxkOUcxZnY0YTdla0ktX2t2WlBsSjJPUWltRjR2M3BuTkk3?oc=5",
+  "date": "2026-09-04",
+  "source": "suaralandak.co.id",
+  "category": "ancaman"
+ },
+ {
+  "title": "BKSDA Evakuasi Belasan Satwa Terdampak Karhutla di Kalimantan",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IMnRKU2szZU9oR3pDaHBOb0ZrUFQyQ0VkOW1WVnlTR3pJM1ZCdWZKd3drX2JIbVZNcW5xdmlEWjFuRlZMblB4ZXJKNTZsd2tOal91ZHhxaWc2NGMzNGFFYmgtVEx2TXp0MWt2dERR?oc=5",
+  "date": "2026-09-04",
+  "source": "Peradaban.id",
+  "category": "ancaman"
+ },
+ {
+  "title": "Detik-Detik Orang Utan Sempurna Tewas Saat Karhutla Hantam Kalimantan",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHppYW5OM3RZUmdNNy1wdmt1cWlFRm02bHBmYVdoRklVMUg2NjEweFNDWjV3WllCSzJoLThuTDdOb2JvdXlnNkdpSm5Sc1NVUHJzSUVmeUJRVV9zY3VLZTJ5b29OV2JOWlp2eER5blluX3M5dTVSN0RwRG1pM2Q4N1h2WG4xc2JhNTZYRVhTeERKZDVfNlZWSVdoTVVDOVpBRm05djlpVkp0UEFCVWJHQ0VoT3NPOV9uanBxSWgtTllwc0c5U1JxbdIBzgFBVV95cUxNQmR1cTdqTDBYOHNsb1EwZGtmN2N3U25XU0lwckdZeDdHcGhXUzZfdG5DbDNaWUJtQi1JOUowSl9wWVlDNlp5cjBEOTktNWt4UDFTUW51UVlBR3dWTlRrLTJneVkwYVdseXlEa2E4OUtJTXA1TnFiLWo3MlFVU19qa3NMX2UyX1daYjVkSUM2TEhuMG10OG9PU08xWW5QODZDYjZLLUFWVkc3X3p6ZWlNbnJBOFB1QkZ1VDk5NlJ5MTRlcEtCN0ZLckhtbklOUQ?oc=5",
+  "date": "2026-09-04",
+  "source": "CNBC Indonesia",
+  "category": "konservasi"
+ },
+ {
+  "title": "Program Budidaya Lebah Diterapkan di Perbatasan desa Penyangga Way Kambas",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWRuLURGQ1pJZVBDSDFuSmY4UXQ5U1lYM2pjb2w4aXdZZmtRYUpZbDE4WW5jN2hXX0VJMFlmbVZqT0t3LXVXM3B2d21Hb3VOVUJwNUVlRlczdGtyX1d3LW42SzY4M0ZMV0U4UmdPRWFacE83UVgyTXNXMHp1aFdJajV5UkY2VVRZTEdTNS02Y0p4MFRuWnRxb0o4bFduNXJtZ0cySWlieFpXaC1acDFiS0JyMXpyMEwzYjhPS3d1b04?oc=5",
+  "date": "2026-09-04",
+  "source": "RRI.co.id",
+  "category": "konservasi"
+ },
+ {
+  "title": "Jelajah Meru Betiri: Saat Pandan Laut dan Tukik Beradu dengan Takdir",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkdZQU9DdjI2MmRkS0FPTHlaZG5GVXdtQ1FHWWVERXZKNUJGd3hoZFcyLVY2RU9GUlhwM3ZtUGhUUkZXUkhhY2RVVTdWTUZzSlpqN2pQNTlyUzRtRnB4bUFPQmZQTEhTRkZVQzJ2VHM0c2dNUXBvc29qMS1pVk9SSF94NU1KSTJjWnZvVDR0ZWpFdVdUM2NXSUl2QTFxUWczMllkb25MSFBJbkxPVlRCbW02WVBFc3pZ0gG3AUFVX3lxTFBzMXhGQzJDLUQ4UHVxZzJuUVNwd1VsRW9TUUMxSnhHVnlzNWZXbWJlWkZyZ0dGYUNLc05fZ01FQlprakVIYTlPdF9YVnVoSE9nMDBHb2xoUjNrbUFfejZTM05mUC1BZ0ZxTVZfX1ZoS1NaVzVsZDBmeHVhM2JaOGRwUm1fb0lfZnFwckhGV01ZZmwzMFpsZHJ3YTNhRkJMWVBEekFBdGFzQXB2dER4OE5oQ0dSMEdRcw?oc=5",
+  "date": "2026-09-04",
+  "source": "National Geographic Indonesia",
+  "category": "konservasi"
+ },
+ {
+  "title": "Cegah Gajah Masuk Permukiman, Pagar Lebah di TNWK Disiapkan Sekaligus Jadi Peluang Ekonomi Warga - Lampung Insider",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOck1NbGNnMm9xbFJ5OU96M1l2eDBsd2dNSVVXLVVrcFpESkdSZ0lqNms3eWwxV3lyQnVzRWVoUElIOTl1ODh5RmNIaDlYR2VqUjJpX2RtZHVVNHE4LVRiOGhjeS0zRHpmMktlV24wMTU5SkpwRDVubWVQMlFwdm1TS0VBUVBZbFlZb1l1ZnBjX2ZLc1ItWmJVenZTUEpzOEk0eEl5TWd4M1FiV1J3Mzh1OWZ2OHo5dzZSRTdxWWZ5VUtXV1dKakI1RC1BeVVzdlFXN1RNT2tqVWR4ZFcxUTlaamozS0VITjlyNTJMS3R1R2xGS05PMnNjZVAzZFE1VmViX1HSAYcCQVVfeXFMUExWTnpRTWhENzVTVlpjMUI3RTl6Yk9wQmlsMERIUzd0Zm1nLXlzY3g2cmtiR2t5bmFqVGFTcEFwMFE4WVZDcm5FR2M5NG9kdWFFbDJaVzFvS0wtRHZJNTZySkdtR3lOcWNOVHpWZDhFLXZSZ1gwaWRMTWthaHRNOEVHWnFUVEZ0cE5McGJaamEzYV9LODgxS1pidU9ER25aRWlmdnM2ZkRnVzlmYUNlbjNQNU9iMExvQjR2LXR6a1FEUEFHTzA1dHEyOTFWX216aGZtTkhyN00xWVhSdG5YSjRySzZQdXRhRF9PYkZrUFo4TV9SUUZLdlVfUzIyeE5jYlFfZkEyaHc?oc=5",
+  "date": "2026-09-04",
+  "source": "Lampung Insider",
+  "category": "konservasi"
+ },
+ {
+  "title": "Gambut TNWK Simpan Titik Panas, Karhutla Hanguskan 6.984 Ha Kawasan Konservasi",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbl9VNVhtRGhFb0JuUEhiekhoNE9CR2VIMi1WUXdmSnpRc0VvcXFwZ2FnNEFFY1ItMVRXUWgzZGtkMk4zdnBIVVJaQmVqaVg3MHBDTWQ1TDNpZDhBMDRMZERFcXVZSWNLNlJ2X3A0MTItLU5meVFBMlhjZ0FMQU1HRFh1dG84dnlsWW0wOWhZYjU1S01HQ0tPcUxwNTA2ZzZDM0dZQ1BQUEx4QXc?oc=5",
+  "date": "2026-09-04",
+  "source": "Lampost.co",
+  "category": "konservasi"
+ },
+ {
+  "title": "DPR Soroti Karhutla Way Kambas Jangan Tunggu Api Membesar, Habitat Gajah Harus Dipulihkan",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUQ1bFVNYnExMGtyTzlYQWU5T0l3WHhmbGtUWF9PZDJlcEtKaEZZNEJJN2RUYnZoUnNObUxmVl9IQmlaRTZDcWRZWnR2clBzV0o4U1FKX3Z5eWZORVNXLVdmaUdseGJlZ0dzb3VfUERnNml5N1lFSElVakpoX1ZVN1FkQWpQSmItY2NWM1hYTmpESTZrcGd6MWdqbjhYU1B2ejc1OUNJa1VUUVp2aDZaSzZaSXBlX2xCaUMtazFlWVFNSlppbDVmMlFYRllJb2s?oc=5",
+  "date": "2026-09-04",
+  "source": "Helo Indonesia",
   "category": "konservasi"
  },
  {
